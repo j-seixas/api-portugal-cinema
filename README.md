@@ -9,7 +9,7 @@ Contains information of the current week's movies in Portugal theaters. The cine
 - [ ] UCI
 - [ ] Castello Lopes
 - [ ] Cinema City
-- [ ] Outros Cinemas
+- [ ] Other Cinemas
 
 ### Work plan:
 - [x] Scrape Cinemas NOS website
