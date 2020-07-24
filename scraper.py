@@ -2,6 +2,7 @@ import requests
 #import urllib.request
 #import time
 from bs4 import BeautifulSoup
+import json
 
 nos_url = 'https://cinemas.nos.pt'
 response = requests.get(nos_url)
@@ -15,15 +16,12 @@ dropdown_movies = soup.find('article', class_='button is-hidden')
 movies_a = dropdown_movies.find_all('a', class_='list-item')
 
 movies = []
-mid = 0
 for item in movies_a:
     movie = {
-        'id': mid,
         'title': item.text,
         'url': nos_url + item['href']
     }
     movies += [movie]
-    mid += 1
 
 print(movies)
 
@@ -48,3 +46,7 @@ for m in movies:
     m['Sinopse'] = sinopse
 
 print(movies)
+
+data = {'NOS Cinemas': movies}
+with open('movies.json', 'w') as outfile:
+    json.dump(data, outfile, indent=4, ensure_ascii=False)
