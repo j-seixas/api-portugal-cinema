@@ -18,8 +18,8 @@ movies_a = dropdown_movies.find_all('a', class_='list-item')
 movies = []
 for item in movies_a:
     movie = {
-        'Title': item.text,
-        'url': nos_url + item['href']
+        'Nome': item.text,
+        'Link Filme': nos_url + item['href']
     }
     movies += [movie]
 
@@ -66,21 +66,27 @@ for m in movies:
         date = datelist[count].text
         lines = t.find_all('article', class_='line')
         for l in lines:
-            cine = l.find('div', class_='cinema').text
+            cine = ' '.join(l.find('div', class_='cinema').text.split())
             
             if cine not in cinemas:
-                room = l.find('div', class_='room').text
+                room = ' '.join(l.find('div', class_='room').text.split())
                 
                 cinemas[cine] = {
-                    'Room': room,
-                    'Dates': []
+                    'Sala': room,
+                    'Datas': []
                 }
 
 
             times = l.find('div', class_='hours').find_all('a')
             hours = []
             for time in times:
-                hours += [{time.text: time['href']}]
+
+                # There are 2 divs to remove
+                time.div.extract()
+                time.div.extract()
+
+                tmp = ' '.join(time.text.split())
+                hours += [{tmp: time['href']}]
             
             #if date not in cinemas[cine]['Dates']:
             cinemas[cine]['Dates'] += [{date: hours}]
@@ -92,6 +98,6 @@ for m in movies:
 
 print(movies)
 
-data = {'NOS Cinemas': movies}
+data = {'Cinemas NOS': movies}
 with open('movies.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, ensure_ascii=False)
