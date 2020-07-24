@@ -10,5 +10,21 @@ print(response)
 
 soup = BeautifulSoup(response.content, 'html.parser')
 
-dropdowns = soup.find_all('section', class_='search-bar')
-print(dropdowns)
+dropdown_movies = soup.find('article', class_='button is-hidden')
+
+movies_a = dropdown_movies.find_all('a', class_='list-item')
+
+
+movies = []
+mid = 0
+for item in movies_a:
+    movie = {
+        'id': mid,
+        'title': item.text,
+        'url': nos_url + item['href']
+    }
+    movies += [movie]
+    mid += 1
+
+print(movies)
+
