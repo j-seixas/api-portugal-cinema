@@ -26,7 +26,7 @@ for item in movies_a:
 #print(movies)
 
 for m in movies:
-    mresponse = requests.get(m['url'])
+    mresponse = requests.get(m['Link Filme'])
     msoup = BeautifulSoup(mresponse.content, 'html.parser')
 
     # Get description
@@ -89,7 +89,7 @@ for m in movies:
                 hours += [{tmp: time['href']}]
             
             #if date not in cinemas[cine]['Dates']:
-            cinemas[cine]['Dates'] += [{date: hours}]
+            cinemas[cine]['Datas'] += [{date: hours}]
                 
             #cinemas[cine]['Dates'][date] = hours
             #times = l.find('div', class_:'cinema')

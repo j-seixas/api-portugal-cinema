@@ -1,8 +1,8 @@
 {
-    "NOS Cinemas": [
+    "Cinemas NOS": [
         {
-            "Title": "1917 IMAX",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/1917-imax.aspx",
+            "Nome": "1917 IMAX",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/1917-imax.aspx",
             "Género": "Drama",
             "Data de estreia": "23/01/2020",
             "Título Original": "1917",
@@ -16,8 +16,8 @@
             "Sinopse": "Sam Mendes, o realizador vencedor de um Óscar® de \"007: Skyfall\", \"007 Spectre\", \"Revolutionary Road\" e \"Beleza Americana\", traz a sua visão singular a este épico sobre a Primeira Guerra Mundial, \"1917\". No auge da Primeira Guerra Mundial, dois jovens soldados britânicos, Schofield (George MacKay) e Blake (Dean-Charles Chapman), recebem uma missão aparentemente impossível. Numa corrida contra o tempo, têm de atravessar território inimigo e entregar uma mensagem que impedirá um ataque letal contra centenas de soldados, entre eles o irmão de Blake.",
             "Cinemas": {
                 "Mar Matosinhos": {
-                    "Room": "Sala IMAX",
-                    "Dates": [
+                    "Sala": "Sala IMAX",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -63,8 +63,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala IMAX",
-                    "Dates": [
+                    "Sala": "Sala IMAX",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -118,8 +118,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala IMAX",
-                    "Dates": [
+                    "Sala": "Sala IMAX",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -175,8 +175,8 @@
             }
         },
         {
-            "Title": "A Cor da Ambição",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/a-cor-da-ambicao.aspx",
+            "Nome": "A Cor da Ambição",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/a-cor-da-ambicao.aspx",
             "Género": "Ação",
             "Data de estreia": "09/07/2020",
             "Título Original": "The Burnt Orange Heresy",
@@ -189,8 +189,8 @@
             "Sinopse": "James Figueras (Claes Bang), um crítico de arte charmoso e ambicioso, caiu em desgraça. Passa os seus dias em Milão a dar palestras sobre história de arte para turistas ignorantes. A sua única réstia de esperança é o seu novo interesse amoroso, a enigmática americana Berenice (Elizabeth Debicki). Dá-se uma oportunidade quando é contactado por um abastado negociante de arte, Joseph Cassidy (Mick Jagger), que convida James para a sua vivenda no Lago Como, e lhe pede para roubar um quadro ao lendário artista solitário Jerome Debney (Donald Sutherland). Mas logo a ganância e a ambição de James levam a melhor sobre si e deixam-no preso numa teia feita por si mesmo.",
             "Cinemas": {
                 "Mar Matosinhos": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -236,8 +236,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -285,8 +285,8 @@
             }
         },
         {
-            "Title": "À Espreita do Mal",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/a-espreita-do-mal.aspx",
+            "Nome": "À Espreita do Mal",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/a-espreita-do-mal.aspx",
             "Género": "Thriller",
             "Data de estreia": "05/03/2020",
             "Título Original": "I See You",
@@ -299,8 +299,8 @@
             "Sinopse": "Numa cidade perfeita com famílias perfeitas, Justin Whitter, de 10 anos, desapareceu. Greg Harper, investigador principal do caso, luta para equilibrar as pressões da investigação, que trouxe à atenção um caso semelhante que se pensava estar enterrado no passado, enquanto encontra uma maneira de perdoar à sua esposa abonada, Jackie, por uma infidelidade recente. Uma grande tensão é exercida sobre a família, à medida que a culpa de Jackie corrompe lentamente o seu domínio da realidade, e quando uma presença maliciosa se manifesta e coloca o seu filho adolescente Connor  em perigo mortal, a fria e dura verdade sobre o mal da família Harper é finalmente descoberta.",
             "Cinemas": {
                 "Parque Nascente": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -378,8 +378,8 @@
             }
         },
         {
-            "Title": "À Luz da Noite",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/a-luz-da-noite.aspx",
+            "Nome": "À Luz da Noite",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/a-luz-da-noite.aspx",
             "Género": "Romance",
             "Data de estreia": "16/07/2020",
             "Título Original": "The Sunlit Night",
@@ -392,8 +392,8 @@
             "Sinopse": "À Luz da Noite conta a história de Frances (Jenny Slate), estudante de Belas Artes que deixou a sua carreira de lado por um namorado que a abandonou e, cuja família entra em colapso quando os seus pais se opõem ao noivado de Gaby, a sua irmã mais nova, para logo de seguida, anunciarem que se vão divorciar. Sentindo uma profunda necessidade de se refazer dos desgostos e dar um rumo a sua vida, Frances aceita um estágio numa ilha no Mar da Noruega, 140 km a norte do Círculo Polar Ártico. Aqui, vai conhecer uma série de personagens tão bizarros quanto encantadores, entre os quais Yasha, que se encontra na Noruega para cumprir o ultimo desejo do seu pai, Vasilly: o de ser sepultado na terra dos Vikings. Em pleno luto pelo pai, Yasha vê-se numa terra estrangeira a ter de lidar com a difícil reentrada da mãe na sua vida.  Yasha e Frances exploram a relação profunda e delicada que os une: nenhum tem um lar seguro para onde voltar nem um caminho claro para seguir. Juntos, debaixo de um sol que nunca se põe, eles enterram o passado, desvendam o futuro e descobrem a família que nunca conheceram.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -454,8 +454,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -537,8 +537,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -620,8 +620,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -703,8 +703,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -750,8 +750,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -790,8 +790,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -830,8 +830,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "VIP 1",
-                    "Dates": [
+                    "Sala": "VIP 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -870,8 +870,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -910,8 +910,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -958,8 +958,8 @@
             }
         },
         {
-            "Title": "A Ovelha Choné - O Filme: A Quinta Contra-Ataca",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/a-ovelha-chone-a-quinta-contra-ataca-bragacine.aspx",
+            "Nome": "A Ovelha Choné - O Filme: A Quinta Contra-Ataca",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/a-ovelha-chone-a-quinta-contra-ataca-bragacine.aspx",
             "Género": "Animação",
             "Data de estreia": "12/12/2019",
             "Título Original": "A Shaun The Sheep Movie: Farmageddon",
@@ -972,8 +972,8 @@
             "Sinopse": "Quando uma impetuosa e adorável extraterrestre, com poderes espantosos, cai por acidente perto da quinta Mossy Bottom, Choné percebe rapidamente que é uma oportunidade para diversão e aventura com poderes alienígenas, e embarca numa missão para acompanhar a visitante intergaláctica de volta a casa, antes que uma organização sinistra a capture... Será que Choné e o rebanho conseguem impedir um Farmageddon na quinta Mossy Bottom, antes que seja tarde demais?",
             "Cinemas": {
                 "Alvaláxia": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-26": [
                                 {
@@ -984,8 +984,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-26": [
                                 {
@@ -996,8 +996,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-26": [
                                 {
@@ -1010,8 +1010,8 @@
             }
         },
         {
-            "Title": "A Verdade",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/a-verdade.aspx",
+            "Nome": "A Verdade",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/a-verdade.aspx",
             "Género": "Drama",
             "Data de estreia": "02/07/2020",
             "Título Original": "La vérité",
@@ -1024,8 +1024,8 @@
             "Sinopse": "\"Fabienne (Catherine Deneuve), um ícone do cinema, é a mãe de Lumir (Juliette Binoche), que escreve argumentos em Nova Iorque. A publicação das memórias daquela grande atriz leva Lumir a regressar à casa da sua infância, com a família.\nMas o reencontro depressa virará confrontação: verdades abafadas, rancores não confessados e amores impossíveis revelam-se sob os olhares espantados dos homens. Fabienne está a fazer um filme de ficção-científica onde tem o papel da filha envelhecida de uma mãe perpetuamente jovem. Realidade e ficção confundem-se, obrigando mãe e filha a reencontrar-se… Realizado pelo japonês Hirokazu Koreeda, “A Verdade” é o primeiro filme do realizador após a nomeação de ‘Shoplifters: Uma Família de Pequenos Ladrões’ ao Óscar de Melhor Filme Estrangeiro.\"",
             "Cinemas": {
                 "Alma Shopping": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1101,8 +1101,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "VIP 3",
-                    "Dates": [
+                    "Sala": "VIP 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1180,8 +1180,8 @@
             }
         },
         {
-            "Title": "Annabelle 3 - O Regresso a Casa SCREENX ATMOS",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/annabelle-3-o-regresso-a-casa-screenx-atmos.aspx",
+            "Nome": "Annabelle 3 - O Regresso a Casa SCREENX ATMOS",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/annabelle-3-o-regresso-a-casa-screenx-atmos.aspx",
             "Género": "Terror",
             "Data de estreia": "05/03/2020",
             "Título Original": "Annabelle Comes Home",
@@ -1194,8 +1194,8 @@
             "Sinopse": "Determinados a evitar que Annabelle cause mais estragos, os demonologistas e investigadores de fenómenos paranormais, Ed e Lorraine Warren, decidem trancar a boneca possuída na sala de artefactos de sua casa, colocando-a “em segurança” dentro de uma vitrine sagrada benzida por um Padre. Mas uma noite profana de horror está prestes a acontecer, quando Annabelle desperta os espíritos malignos da sala, e todos se voltam para um novo alvo - a filha de 10 anos dos Warren, Judy, e as suas amigas. Terceiro filme do fenómeno global “Annabelle”, que conta a história da infame e sinistra boneca do Universo “The Conjuring”.",
             "Cinemas": {
                 "NorteShopping": {
-                    "Room": "ScreenX",
-                    "Dates": [
+                    "Sala": "ScreenX",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1297,8 +1297,8 @@
             }
         },
         {
-            "Title": "Arkansas - Rei do Crime",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/arkansas-rei-do-crime.aspx",
+            "Nome": "Arkansas - Rei do Crime",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/arkansas-rei-do-crime.aspx",
             "Género": "Thriller",
             "Data de estreia": "16/07/2020",
             "Título Original": "Arkansas",
@@ -1311,8 +1311,8 @@
             "Sinopse": "Dois pequenos criminosos, Kyle (Liam Hemsworth) e Swin, vivem às ordens de um chefe do crime chamado Frog (Vince Vaughn), que nunca conheceram. Mas quando uma transação corre pessimamente, consequências assustadoras abalam subitamente a vida rotineira da dupla. Vender produtos ilícitos é um negócio arriscado e duvidoso, sem margem para segundas oportunidades. Não há certo nem errado. Eles têm de ser eliminados.",
             "Cinemas": {
                 "Alegro Montijo": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1358,8 +1358,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1405,8 +1405,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1497,8 +1497,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1574,8 +1574,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1651,8 +1651,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1743,8 +1743,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1790,8 +1790,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1873,8 +1873,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -1920,8 +1920,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2003,8 +2003,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2065,8 +2065,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2112,8 +2112,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2195,8 +2195,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2278,8 +2278,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2325,8 +2325,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2372,8 +2372,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2419,8 +2419,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2496,8 +2496,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -2566,8 +2566,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -2701,8 +2701,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -2741,8 +2741,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 10",
-                    "Dates": [
+                    "Sala": "Sala 10",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -2798,8 +2798,8 @@
             }
         },
         {
-            "Title": "Becky",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/becky.aspx",
+            "Nome": "Becky",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/becky.aspx",
             "Género": "Ação",
             "Data de estreia": "23/07/2020",
             "Título Original": "Becky",
@@ -2812,8 +2812,8 @@
             "Sinopse": "Becky (Lulu Wilson) é uma adolescente rebelde. Numas férias em família, viverá a pior experiência da sua vida, quando a casa onde se encontram é invadida por um grupo de reclusos em fuga, liderado pelo impiedoso Dominick (Kevin James)…",
             "Cinemas": {
                 "Alegro Montijo": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -2895,8 +2895,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3002,8 +3002,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3094,8 +3094,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3186,8 +3186,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3278,8 +3278,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3364,8 +3364,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3447,8 +3447,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3530,8 +3530,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3613,8 +3613,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3696,8 +3696,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3779,8 +3779,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3862,8 +3862,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -3954,8 +3954,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4037,8 +4037,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "NOS XVision",
-                    "Dates": [
+                    "Sala": "NOS XVision",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4216,8 +4216,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4308,8 +4308,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4391,8 +4391,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4474,8 +4474,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4551,8 +4551,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4634,8 +4634,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4711,8 +4711,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4805,8 +4805,8 @@
             }
         },
         {
-            "Title": "Birds of Prey (e a Fantabulástica Emancipação de uma Harley Quinn) IMAX",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/birds-of-prey-e-a-fantabulastica-emancipacao-de-uma-harley-quinn-imax.aspx",
+            "Nome": "Birds of Prey (e a Fantabulástica Emancipação de uma Harley Quinn) IMAX",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/birds-of-prey-e-a-fantabulastica-emancipacao-de-uma-harley-quinn-imax.aspx",
             "Género": "Ação",
             "Data de estreia": "06/02/2020",
             "Título Original": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
@@ -4820,8 +4820,8 @@
             "Sinopse": "Já ouviram falar da história com a detetive, o canário, a psicopata e a princesa da máfia? “Birds of Prey (E a Fantabulástica Emancipação de Uma Harley Quinn)” é uma história distorcida contada pela própria Harley, como só ela poderia contar. Quando o vilão mais nefasto e narcisista de Gotham, Roman Sionis, e o seu dedicado braço direito, Zsasz, decidem capturar uma jovem chamada Cass, a cidade fica virada do avesso à procura dela. Os caminhos de Harley, Huntress, Black Canary e Renee Montoya cruzam-se e o improvável grupo não tem opção senão unir-se para derrotar Roman.",
             "Cinemas": {
                 "CascaiShopping": {
-                    "Room": "Sala IMAX",
-                    "Dates": [
+                    "Sala": "Sala IMAX",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4882,8 +4882,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala IMAX",
-                    "Dates": [
+                    "Sala": "Sala IMAX",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -4944,8 +4944,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala IMAX",
-                    "Dates": [
+                    "Sala": "Sala IMAX",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -5001,8 +5001,8 @@
             }
         },
         {
-            "Title": "Birds of Prey (e a Fantabulástica Emancipação de uma Harley Quinn) SCREENX",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/birds-of-prey-e-a-fantabulastica-emancipacao-de-uma-harley-quinn-screenx.aspx",
+            "Nome": "Birds of Prey (e a Fantabulástica Emancipação de uma Harley Quinn) SCREENX",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/birds-of-prey-e-a-fantabulastica-emancipacao-de-uma-harley-quinn-screenx.aspx",
             "Género": "Ação",
             "Data de estreia": "06/02/2020",
             "Título Original": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
@@ -5015,8 +5015,8 @@
             "Sinopse": "Já ouviram falar da história com a detetive, o canário, a psicopata e a princesa da máfia? “Birds of Prey (E a Fantabulástica Emancipação de Uma Harley Quinn)” é uma história distorcida contada pela própria Harley, como só ela poderia contar. Quando o vilão mais nefasto e narcisista de Gotham, Roman Sionis, e o seu dedicado braço direito, Zsasz, decidem capturar uma jovem chamada Cass, a cidade fica virada do avesso à procura dela. Os caminhos de Harley, Huntress, Black Canary e Renee Montoya cruzam-se e o improvável grupo não tem opção senão unir-se para derrotar Roman.",
             "Cinemas": {
                 "NorteShopping": {
-                    "Room": "ScreenX",
-                    "Dates": [
+                    "Sala": "ScreenX",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -5110,8 +5110,8 @@
             }
         },
         {
-            "Title": "Bloodshot",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/bloodshot.aspx",
+            "Nome": "Bloodshot",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/bloodshot.aspx",
             "Género": "Ação",
             "Data de estreia": "05/03/2020",
             "Título Original": "Bloodshot",
@@ -5124,8 +5124,8 @@
             "Sinopse": "Baseado no best-seller de banda desenhada, Vin Diesel protagoniza “Bloodshot” na pele de Ray Garrison, um soldado recentemente morto em combate e ressuscitado como o super-humano Bloodshot da empresa RST. Com um exército de nanotecnologia nas suas veias, Ray é uma força imparável - mais forte do que nunca e capaz de se curar instantaneamente. Mas, ao controlar o seu corpo, a empresa controla também a sua mente e as suas memórias. Agora, Ray não sabe o que é real e o que não é, mas está decidido a descobrir a verdade.",
             "Cinemas": {
                 "Almada Forum": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5171,8 +5171,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5218,8 +5218,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5265,8 +5265,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5312,8 +5312,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 12",
-                    "Dates": [
+                    "Sala": "Sala 12",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5389,8 +5389,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5436,8 +5436,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5485,8 +5485,8 @@
             }
         },
         {
-            "Title": "Bloodshot 4DX",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/bloodshot-4dx.aspx",
+            "Nome": "Bloodshot 4DX",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/bloodshot-4dx.aspx",
             "Género": "Ação",
             "Data de estreia": "05/03/2020",
             "Título Original": "Bloodshot",
@@ -5499,8 +5499,8 @@
             "Sinopse": "Informamos que as sessões em 4DX vão ter uma limitação de efeitos. Com esta medida garantimos a todos uma experiência de cinema segura.\n\nBaseado no best-seller de banda desenhada, Vin Diesel protagoniza “Bloodshot” na pele de Ray Garrison, um soldado recentemente morto em combate e ressuscitado como o super-humano Bloodshot da empresa RST. Com um exército de nanotecnologia nas suas veias, Ray é uma força imparável - mais forte do que nunca e capaz de se curar instantaneamente. Mas, ao controlar o seu corpo, a empresa controla também a sua mente e as suas memórias. Agora, Ray não sabe o que é real e o que não é, mas está decidido a descobrir a verdade.",
             "Cinemas": {
                 "Almada Forum": {
-                    "Room": "Sala 4DX",
-                    "Dates": [
+                    "Sala": "Sala 4DX",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5591,8 +5591,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 4DX",
-                    "Dates": [
+                    "Sala": "Sala 4DX",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -5663,8 +5663,8 @@
             }
         },
         {
-            "Title": "'Bora Lá (Dob.)",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/bora-la-dob.aspx",
+            "Nome": "'Bora Lá (Dob.)",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/bora-la-dob.aspx",
             "Género": "Animação",
             "Data de estreia": "29/02/2020",
             "Título Original": "Onward",
@@ -5678,8 +5678,8 @@
             "Sinopse": "Num mundo de fantasia suburbana, dois irmãos elfos adolescentes (vozes de Chris Pratt e Tom Holland na versão original) embarcam numa grande e gloriosa demanda para descobrir se ainda existe magia no mundo. A nova longa-metragem original dos Estúdios de Animação da Pixar é realizada por Dan Scanlon e produzida por Kori Rae - a equipa por detrás do filme \"Monstros: A Universidade\".",
             "Cinemas": {
                 "Mar Matosinhos": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5793,8 +5793,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 10",
-                    "Dates": [
+                    "Sala": "Sala 10",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -5873,8 +5873,8 @@
                     ]
                 },
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -5969,8 +5969,8 @@
                     ]
                 },
                 "Alegro Montijo": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6030,8 +6030,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6085,8 +6085,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6162,8 +6162,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6258,8 +6258,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6313,8 +6313,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6406,8 +6406,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6476,8 +6476,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6548,8 +6548,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6594,8 +6594,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6655,8 +6655,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6716,8 +6716,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6771,8 +6771,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6835,8 +6835,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6896,8 +6896,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -6951,8 +6951,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7026,8 +7026,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7087,8 +7087,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7151,8 +7151,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7292,8 +7292,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7362,8 +7362,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7423,8 +7423,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7500,8 +7500,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7561,8 +7561,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7622,8 +7622,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7695,8 +7695,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -7770,8 +7770,8 @@
             }
         },
         {
-            "Title": "Burden - A Redenção",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/burden-a-redencao.aspx",
+            "Nome": "Burden - A Redenção",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/burden-a-redencao.aspx",
             "Género": "Drama",
             "Data de estreia": "09/07/2020",
             "Título Original": "Burden",
@@ -7784,8 +7784,8 @@
             "Sinopse": "Mike é um órfão que foi criado no seio do Klu Klux Klan. Um dia, apaixona-se e a namorada dele tenta mudar a sua vida para melhor, convencendo-a a abandonar o grupo supremacista branco a que sempre pertenceu. Mas não é assim tão simples: o KKK persegue-o e ele vê-se obrigado a refugiar-se numa igreja baptista negra. Estreia na realização de Andrew Heckler, que fez carreira como actor com participações pequenas e esporádicas em filmes e séries de televisão. ",
             "Cinemas": {
                 "Colombo": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -7849,8 +7849,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -7896,8 +7896,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -7945,8 +7945,8 @@
             }
         },
         {
-            "Title": "Clube dos Divorciados",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/clube-dos-divorciados.aspx",
+            "Nome": "Clube dos Divorciados",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/clube-dos-divorciados.aspx",
             "Género": "Comédia",
             "Data de estreia": "23/07/2020",
             "Título Original": "Divorce Club",
@@ -7959,8 +7959,8 @@
             "Sinopse": "Após 5 anos de casamento, Ben (Arnaud Ducret) continua apaixonado pela mulher. Até o dia em que descobre, em público, que a mulher anda a traí-lo: além de humilhado, é descartado! Totalmente desanimado e evitado pelos amigos, Ben luta para não soçobrar, até que um dia se cruza com um antigo amigo, Patrick (François-Xavier Demaison) que também está divorciado e lhe propõe que vá viver para sua casa. Ao contrário de Ben, Patrick pretende tirar proveito do celibato recuperado e de todos os prazeres a que renunciou durante o casamento. Aos dois amigos depressa se juntam outros divorciados (Audrey Fleurot, Michaël Youn ...) e os foliões quarentões redigem as primeiras regras do \"Clube dos Divorciados\", sendo que a primeira delas é viver em permanente festa.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8042,8 +8042,8 @@
                     ]
                 },
                 "Alegro Montijo": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8125,8 +8125,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8208,8 +8208,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8300,8 +8300,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8392,8 +8392,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8484,8 +8484,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8576,8 +8576,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8668,8 +8668,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8760,8 +8760,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8843,8 +8843,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -8920,8 +8920,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9003,8 +9003,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9086,8 +9086,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9178,8 +9178,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9246,8 +9246,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9338,8 +9338,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9415,8 +9415,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9492,8 +9492,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9569,8 +9569,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9661,8 +9661,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -9718,8 +9718,8 @@
             }
         },
         {
-            "Title": "Correr por um Sonho",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/correr-por-um-sonho.aspx",
+            "Nome": "Correr por um Sonho",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/correr-por-um-sonho.aspx",
             "Género": "Biografia",
             "Data de estreia": "16/07/2020",
             "Título Original": "Ride Like a Girl",
@@ -9732,8 +9732,8 @@
             "Sinopse": "Desde miúda, Michelle Payne (Teresa Palmer) sonhava com o impossível: vencer o Melbourne Cup – uma duríssima corrida de cavalos de 3 quilómetros. Filha mais nova de uma família de dez, Michelle é criada apenas pelo pai, Paddy (Sam Neill). Deixa a escola aos 15 anos para se tornar jockey e depois de algumas dificuldades iniciais, consegue afirmar-se, mas uma tragédia familiar – a que se segue uma queda de cavalo quase fatal – põe fim ao seu sonho. Contudo, amparada pelo amor do pai e do irmão Stevie, Michelle não desiste. Contra o parecer dos médicos e apesar dos protestos dos irmãos, ela continua a montar e conhece Prince of Penzance. Juntos, ultrapassam obstáculos intransponíveis na luta pelo seu sonho: a corrida no Melbourne Cup de 2015, com apostas de 100 para 1. O resto é história.",
             "Cinemas": {
                 "Alvaláxia": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9809,8 +9809,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9886,8 +9886,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -9948,8 +9948,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10031,8 +10031,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10078,8 +10078,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10161,8 +10161,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10208,8 +10208,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10255,8 +10255,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10344,8 +10344,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10391,8 +10391,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10438,8 +10438,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10485,8 +10485,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10547,8 +10547,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10594,8 +10594,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -10664,8 +10664,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -10739,8 +10739,8 @@
             }
         },
         {
-            "Title": "Faz-me Companhia",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/faz-me-companhia.aspx",
+            "Nome": "Faz-me Companhia",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/faz-me-companhia.aspx",
             "Género": "Terror",
             "Data de estreia": "02/07/2020",
             "Título Original": "Faz-me Companhia",
@@ -10753,8 +10753,8 @@
             "Sinopse": "Sílvia aluga uma casa para o fim-de-semana no sul de Portugal com a intenção de se encontrar com a sua amante secreta, Clara. Entre mergulhos na piscina e banhos de sol, o fim-de-semana perfeito a dois começa a ser perturbado por um mal misterioso. Estranhos eventos ocorrem na casa que terão um impacto permanente na relação e na vida das duas mulheres.",
             "Cinemas": {
                 "Alvaláxia": {
-                    "Room": "Sala 12",
-                    "Dates": [
+                    "Sala": "Sala 12",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10817,8 +10817,8 @@
             }
         },
         {
-            "Title": "Freaks",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/freaks.aspx",
+            "Nome": "Freaks",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/freaks.aspx",
             "Género": "Ficção",
             "Data de estreia": "02/07/2020",
             "Título Original": "Freaks",
@@ -10831,8 +10831,8 @@
             "Sinopse": "Neste original thriller de sci-fi, uma menina chamada Chloe (Lexy Kolker) cresce numa casa abandonada, sonhando com o mundo lá fora e imaginando como seria se tivesse uma mãe. O seu pai (Emile Hirsch), um homem perturbado, avisa-a que os \"maus\" os matarão se ela alguma vez sair de casa. Atormentada por intrusos horrendos que se materializam no seu armário e instada a explorar o exterior pelo misterioso Sr. Cone de Gelado (Bruce Dern), Chloe acaba por conseguir arranjar coragem para fugir, para descobrir que o pai não estava a mentir. Agora tem de decidir se quer esconder-se para sempre ou lutar por aquilo que mais deseja: encontrar a sua mãe.",
             "Cinemas": {
                 "Alegro Montijo": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10878,8 +10878,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -10955,8 +10955,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11017,8 +11017,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11064,8 +11064,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11147,8 +11147,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11194,8 +11194,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11241,8 +11241,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -11283,8 +11283,8 @@
             }
         },
         {
-            "Title": "Interstellar",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/interstellar.aspx",
+            "Nome": "Interstellar",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/interstellar.aspx",
             "Género": "Ficção",
             "Data de estreia": "09/07/2020",
             "Título Original": "Interstellar",
@@ -11297,8 +11297,8 @@
             "Sinopse": "Com o nosso tempo no planeta Terra a aproximar-se do fim, uma equipa de exploradores é enviada na missão mais importante da história da humanidade: viajar para além da nossa galáxia para descobrir se a humanidade tem futuro entre as estrelas.",
             "Cinemas": {
                 "Almada Forum": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11386,8 +11386,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11448,8 +11448,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11599,8 +11599,8 @@
             }
         },
         {
-            "Title": "Mulheres de Armas",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/mulheres-de-armas.aspx",
+            "Nome": "Mulheres de Armas",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/mulheres-de-armas.aspx",
             "Género": "Comédia",
             "Data de estreia": "09/07/2020",
             "Título Original": "Military Wives",
@@ -11613,8 +11613,8 @@
             "Sinopse": "Kate (Kristin Scott Thomas), é a mulher perfeita de um oficial, que suporta com elegância e estoicismo uma  vida de ansiedade e solidão, quando ele se encontra ausente em missões militares. Encontrando liberdade em cantar, ela convence um grupo de mulheres da base a formar o Coro de Mulheres de Militares. Uma das mulheres, Lisa (Sharon Horgan) – recém-chegada, rebelde, inconformada e inicialmente cética pelo amadorismo do grupo, vê-se rapidamente convencida pela amizade, humor e coragem do coro, assumindo com Kate a sua direção. Na busca de uma voz única, Kate, Lisa e o coro fazem frente às convenções e às suas próprias diferenças pessoais. Entoando sucessos da pop e hinos do rock, este extraordinário grupo de mulheres acaba por transformar um hobby num sucesso inesperado, a nível nacional.",
             "Cinemas": {
                 "Alma Shopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11660,8 +11660,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11707,8 +11707,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11754,8 +11754,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11803,8 +11803,8 @@
             }
         },
         {
-            "Title": "O Espaço entre Nós",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/o-espaco-entre-nos.aspx",
+            "Nome": "O Espaço entre Nós",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/o-espaco-entre-nos.aspx",
             "Género": "Drama",
             "Data de estreia": "16/07/2020",
             "Título Original": "Proxima",
@@ -11817,8 +11817,8 @@
             "Sinopse": "Unidas na Terra, mas separadas pelo espaço. Sarah (Eva Green) é uma astronauta francesa em formação na Agência Espacial Europeia, em Colónia, sendo a única mulher no árduo programa. Ela vive sozinha com Stella, a sua filha de 7 anos. O seu amor é avassalador, inquietante, mas sente-se culpada por não poder passar mais tempo com a sua filha. Quando Sarah é escolhida para fazer parte da tripulação de uma missão espacial de um ano, chamada \"Proxima\", isso cria o caos na relação entre mãe e filha.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11885,8 +11885,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -11962,8 +11962,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 10",
-                    "Dates": [
+                    "Sala": "Sala 10",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12009,8 +12009,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12101,8 +12101,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12163,8 +12163,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12210,8 +12210,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12257,8 +12257,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -12299,8 +12299,8 @@
             }
         },
         {
-            "Title": "O Que Arde",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/o-que-arde.aspx",
+            "Nome": "O Que Arde",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/o-que-arde.aspx",
             "Género": "Drama",
             "Data de estreia": "16/07/2020",
             "Título Original": "Lo Que Arde",
@@ -12313,8 +12313,8 @@
             "Sinopse": "Amador Coro foi condenado por ter provocado um incêndio. Quando sai da prisão, não tem ninguém à sua espera. Regressa à sua aldeia, aninhada nas montanhas da Galiza, onde vive a mãe, Benedicta, e as suas três vacas. A vida deles decorre lentamente, ao ritmo tranquilo da natureza. Até ao dia em que um fogo vem devastar a região. ",
             "Cinemas": {
                 "Alma Shopping": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12398,8 +12398,8 @@
             }
         },
         {
-            "Title": "O Rececionista",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/o-rececionista.aspx",
+            "Nome": "O Rececionista",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/o-rececionista.aspx",
             "Género": "Drama",
             "Data de estreia": "02/07/2020",
             "Título Original": "The Night Clerk",
@@ -12412,8 +12412,8 @@
             "Sinopse": "Durante o turno da noite, Bart Bromley (Tye Sheridan) um jovem rececionista, testemunha o assassinato de uma mulher num dos quartos do hotel, mas os seus comportamentos sus-peitos acabam por o colocar como principal suspeito. No decorrer da investigação, Bart cria uma relação próxima com uma das hóspedes, Andrea (Ana de Armas), e rapidamente percebe que tem de parar o verdadeiro assassino antes que ela seja a próxima vítima. As imagens das câmaras de vigilância, que Bart mantém em segredo para observar os hóspedes, são a única forma de conseguir provar a sua inocência e salvar Andrea.",
             "Cinemas": {
                 "Almada Forum": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12519,8 +12519,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12611,8 +12611,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12673,8 +12673,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12773,8 +12773,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12856,8 +12856,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -12939,8 +12939,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13022,8 +13022,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13069,8 +13069,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13152,8 +13152,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13235,8 +13235,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13327,8 +13327,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13416,8 +13416,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13505,8 +13505,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13597,8 +13597,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13680,8 +13680,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13757,8 +13757,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13819,8 +13819,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -13911,8 +13911,8 @@
                     ]
                 },
                 "Alegro Montijo": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -13983,8 +13983,8 @@
             }
         },
         {
-            "Title": "Ofélia",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/ofelia.aspx",
+            "Nome": "Ofélia",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/ofelia.aspx",
             "Género": "Drama",
             "Data de estreia": "23/07/2020",
             "Título Original": "Ophelia",
@@ -13997,8 +13997,8 @@
             "Sinopse": "Passado no século XIV, é uma original reencenação do \"Hamlet\" de Shakespeare. Ofélia (Daisy Ridley) ocupa o centro do palco como aia de confiança da Rainha Gertrude (Naomi Watts). Bela e inteligente, depressa atrai as atenções do garboso príncipe Hamlet (George MacKay) e um amor proibido floresce. À medida que as movimentações de guerra começam a surgir, o desejo e a traição começam a minar o Castelo Elsinore e Ofélia tem de decidir entre o verdadeiro amor e a sua própria vida para proteger um segredo muito perigoso.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14059,8 +14059,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14142,8 +14142,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 12",
-                    "Dates": [
+                    "Sala": "Sala 12",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14234,8 +14234,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 10",
-                    "Dates": [
+                    "Sala": "Sala 10",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14326,8 +14326,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "VIP 4",
-                    "Dates": [
+                    "Sala": "VIP 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14418,8 +14418,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14510,8 +14510,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14593,8 +14593,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14670,8 +14670,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14762,8 +14762,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14841,8 +14841,8 @@
             }
         },
         {
-            "Title": "Para Sama",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/para-sama.aspx",
+            "Nome": "Para Sama",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/para-sama.aspx",
             "Género": "Documentário",
             "Data de estreia": "23/07/2020",
             "Título Original": "For Sama",
@@ -14855,8 +14855,8 @@
             "Sinopse": "Uma carta de amor de uma jovem mãe para a sua filha, o filme conta a história de vida de Waad al-Kateab durante cinco anos de revolta em Alepo, na Síria, ao mesmo tempo que se apaixona, se casa e tem a filha Sama, tudo enquanto o conflito devastador cresce à sua volta.A sua câmara captura histórias incríveis de perda, alegria e sobrevivência enquanto Waad luta com uma escolha impossível – fugir ou não da cidade para proteger a vida da filha, quando sair significa abandonar a luta pela liberdade, pela qual já sacrificou tanto.",
             "Cinemas": {
                 "Forum Madeira": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14876,8 +14876,8 @@
             }
         },
         {
-            "Title": "Patrick",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/patrick.aspx",
+            "Nome": "Patrick",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/patrick.aspx",
             "Género": "Drama",
             "Data de estreia": "23/07/2020",
             "Título Original": "Patrick",
@@ -14890,8 +14890,8 @@
             "Sinopse": "Patrick, 20 anos, vive em Paris com o namorado, mais velho. Gere um site de pornografia adolescente, o que o leva a ser preso, após uma rusga numa festa. Mário, um menino de anos, foi raptado em Portugal, há 12 anos. Patrick e Mário são a mesma pessoa, e essas duas identidades estão em conflito: a vida de festas, drogas e promiscuidade em Paris; e a sua nova vida rural em Portugal, onde se sente obrigado a criar ligações com uma família destruída.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -14973,8 +14973,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 10",
-                    "Dates": [
+                    "Sala": "Sala 10",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15056,8 +15056,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 13",
-                    "Dates": [
+                    "Sala": "Sala 13",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15148,8 +15148,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15240,8 +15240,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15332,8 +15332,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15409,8 +15409,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15471,8 +15471,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15554,8 +15554,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15646,8 +15646,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15740,8 +15740,8 @@
             }
         },
         {
-            "Title": "Rede de Espiões",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/rede-de-espioes.aspx",
+            "Nome": "Rede de Espiões",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/rede-de-espioes.aspx",
             "Género": "Thriller",
             "Data de estreia": "09/07/2020",
             "Título Original": "Wasp Network",
@@ -15754,8 +15754,8 @@
             "Sinopse": "O piloto cubano René González (Edgar Ramírez) deixa a mulher e a filha na ilha comunista, desertando para os Estados Unidos e iniciando uma nova vida em liberdade no início dos anos 1990. Mas René não é o ambicioso empreendedor que aparenta ser. Unindo forças a um grupo de exilados cubanos no sul da Florida, conhecido como Wasp Network - liderado pelo agente secreto conhecido como Gerardo Hernandez (Gael García Bernal) - torna-se membro de um grupo de espiões pró-castristas incumbido de vigiar e de se infiltrar em grupos terroristas cubano-americanos que tencionam atacar a república socialista. Inspirado na história verídica dos “Cinco Cubanos”, agentes dos serviços secretos, Wasp Network – Rede de Espiões, é um empolgante e sofisticado thriller político que inclui uma vasta galeria de cubanos e exilados cubano-americanos envolvidos numa complexa batalha entre ideologias rivais e lealdades instáveis.",
             "Cinemas": {
                 "CascaiShopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15801,8 +15801,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15893,8 +15893,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15940,8 +15940,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -15987,8 +15987,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -16034,8 +16034,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -16081,8 +16081,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16123,8 +16123,8 @@
             }
         },
         {
-            "Title": "SamSam",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/samsam.aspx",
+            "Nome": "SamSam",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/samsam.aspx",
             "Género": "Animação",
             "Data de estreia": "09/07/2020",
             "Título Original": "SamSam",
@@ -16138,8 +16138,8 @@
             "Sinopse": "O pequeno e corajoso SamSam tem quase tudo o que um pequeno super-herói poderia sonhar: uns super pais que o adoram, um grupo de super amigos e a sua própria nave especial para poder explorar o espaço… mas os seus primeiro superpoder ainda não se revelou! Quando Mega Láctica, a sua nova e fixe colega de escola afirma que o poderá ajudar a revelar os seus superpoderes, SamSam vê nesta misteriosa amiga a oportunidade de finalmente revelar as suas habilidades super-humanas. Juntos, irão embarcar numa aventura cósmica onde SamSam irá aprender que a amizade e a coragem são os melhores superpoderes que ele poderia desejar.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16184,8 +16184,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16257,8 +16257,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 12",
-                    "Dates": [
+                    "Sala": "Sala 12",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16318,8 +16318,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16361,8 +16361,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16404,8 +16404,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16474,8 +16474,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16520,8 +16520,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16608,8 +16608,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16696,8 +16696,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16751,8 +16751,8 @@
                     ]
                 },
                 "Palácio do Gelo": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16812,8 +16812,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -16885,8 +16885,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-26": [
                                 {
@@ -16899,8 +16899,8 @@
             }
         },
         {
-            "Title": "Sobreviver na Noite",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/sobreviver-na-noite.aspx",
+            "Nome": "Sobreviver na Noite",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/sobreviver-na-noite.aspx",
             "Género": "Ação",
             "Data de estreia": "09/07/2020",
             "Título Original": "Survive the Night",
@@ -16913,8 +16913,8 @@
             "Sinopse": "Quando o seu irmão Mathias fica gravemente ferido num assalto, Jamie persegue Rich, um médico cirurgião, desde o hospital onde trabalha até sua casa. Fazendo reféns a mulher e filha de Rich, Jamie força-o a operar Mathias. Para que a sua família sobreviva Rich terá de sobreviver nessa noite, deixar para trás as desavenças com o seu pai, Frank, um xerife reformado, e, através dessa aliança familiar, ganhar vantagem face aos dois criminosos.",
             "Cinemas": {
                 "Alegro Montijo": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -16996,8 +16996,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17088,8 +17088,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17180,8 +17180,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17257,8 +17257,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17349,8 +17349,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17411,8 +17411,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17494,8 +17494,8 @@
                     ]
                 },
                 "Forum Coimbra": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17577,8 +17577,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17660,8 +17660,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17728,8 +17728,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17775,8 +17775,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17864,8 +17864,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -17941,8 +17941,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -18018,8 +18018,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -18067,8 +18067,8 @@
             }
         },
         {
-            "Title": "Sonic - O Filme (Dob.)",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/sonic-o-filme-dob.aspx",
+            "Nome": "Sonic - O Filme (Dob.)",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/sonic-o-filme-dob.aspx",
             "Género": "Aventura",
             "Data de estreia": "13/02/2020",
             "Título Original": "Sonic The Hedgehog",
@@ -18082,8 +18082,8 @@
             "Sinopse": "Baseado no videojogo da Sega, sucesso à escala global, SONIC – O FILME conta a história do ouriço mais rápido do mundo a partir do momento em que este chega à sua nova casa – o planeta Terra. Nesta comédia e aventura live-action, Sonic e o seu novo melhor amigo Tom (James Marsden, da série de TV “Westworld”) juntam-se para defender o planeta do génio do mal, o Dr. Robotnik (Jim Carrey), e dos seus planos para domínio do mundo. Um filme para toda a família que conta ainda com Tika Sumpter e Ben Schwartz (voz de Sonic).",
             "Cinemas": {
                 "Almada Forum": {
-                    "Room": "Sala 10",
-                    "Dates": [
+                    "Sala": "Sala 10",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18155,8 +18155,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18228,8 +18228,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18288,8 +18288,8 @@
             }
         },
         {
-            "Title": "Spycies - Agentes Especiais (dob)",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/spycies-agentes-especiais.aspx",
+            "Nome": "Spycies - Agentes Especiais (dob)",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/spycies-agentes-especiais.aspx",
             "Género": "Animação",
             "Data de estreia": "16/07/2020",
             "Título Original": "Spycies",
@@ -18303,8 +18303,8 @@
             "Sinopse": "Vladimir, o gato, é o melhor agente especial dos Serviços Secretos, mas não é lá muito bom a cumprir ordens… Como castigo é-lhe atribuída a missão de proteger o Radiuzite juntamente com um agente principiante, Hector, o rato. Quando o Radiuzite é roubado debaixo dos seus narizes, Vladimir e Hector são obrigados a trabalhar juntos… Uma missão para encontrarem o ladrão, redimirem-se enquanto espiões e salvarem o mundo! ",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18349,8 +18349,8 @@
                     ]
                 },
                 "Alegro Montijo": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18410,8 +18410,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18471,8 +18471,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18548,8 +18548,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18609,8 +18609,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18682,8 +18682,8 @@
                     ]
                 },
                 "CascaiShopping": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18740,8 +18740,8 @@
                     ]
                 },
                 "Colombo": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18798,8 +18798,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18859,8 +18859,8 @@
                     ]
                 },
                 "Ferrara Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18920,8 +18920,8 @@
                     ]
                 },
                 "Forum Algarve": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -18981,8 +18981,8 @@
                     ]
                 },
                 "Forum Madeira": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19045,8 +19045,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19106,8 +19106,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19161,8 +19161,8 @@
                     ]
                 },
                 "Gaia Shopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19222,8 +19222,8 @@
                     ]
                 },
                 "Maia Shopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19283,8 +19283,8 @@
                     ]
                 },
                 "Mar Matosinhos": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19356,8 +19356,8 @@
                     ]
                 },
                 "Mar Shopping Algarve": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19420,8 +19420,8 @@
                     ]
                 },
                 "NorteShopping": {
-                    "Room": "Sala 7",
-                    "Dates": [
+                    "Sala": "Sala 7",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19558,8 +19558,8 @@
                     ]
                 },
                 "Nosso Shopping": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19628,8 +19628,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19674,8 +19674,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19747,8 +19747,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19820,8 +19820,8 @@
                     ]
                 },
                 "Tavira Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19875,8 +19875,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -19948,8 +19948,8 @@
                     ]
                 },
                 "Vasco da Gama": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
@@ -20023,8 +20023,8 @@
             }
         },
         {
-            "Title": "Surdina",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/surdina.aspx",
+            "Nome": "Surdina",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/surdina.aspx",
             "Género": "Drama",
             "Data de estreia": "09/07/2020",
             "Título Original": "Surdina",
@@ -20037,8 +20037,8 @@
             "Sinopse": "Num espaço rural, um velho homem recebe a noticia de que a sua falecida mulher foi vista a fazer compras na feira. Revoltado, pretende esconder-se de todos, despeitado e triste, mas os seus amigos insistem para que não dê ouvidos ao povo e aproveite tal facto para se fortalecer e, quem sabe, casar-se de novo. Esta é uma história da delicadeza de se ser velho, do que resta ainda para sonhar e para amar quando a idade avança significativamente e o corpo se enfraquece. Num Portugal antigo e recôndito, que afinal existe, apesar de tudo quanto façamos para nos modernizarmos. ",
             "Cinemas": {
                 "Amoreiras": {
-                    "Room": "VIP 1",
-                    "Dates": [
+                    "Sala": "VIP 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20114,8 +20114,8 @@
                     ]
                 },
                 "Forum Viseu": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20163,8 +20163,8 @@
             }
         },
         {
-            "Title": "Tabaluga e a Princesa de Gelo",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/tabaluga-e-a-princesa-de-gelo.aspx",
+            "Nome": "Tabaluga e a Princesa de Gelo",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/tabaluga-e-a-princesa-de-gelo.aspx",
             "Género": "Animação",
             "Data de estreia": "20/02/2020",
             "Título Original": "Ice Princess Lily",
@@ -20177,8 +20177,8 @@
             "Sinopse": "O jovem dragão Tabaluga vive com o pai adotivo, o corvo Kolk, na pitoresca Terra Verde. Como nunca aprendeu a cuspir fogo, ele precisa urgentemente dos conselhos de um verdadeiro dragão adulto, mas Tabaluga é o último da sua espécie. O único grande amigo que tem é Bully, uma joaninha faladora. Um dia, Tabaluga e Bully são atraídos para a Terra Gelada que é governada pelo malvado Arktos. Quando conhece Lili, a bela princesa do gelo, é amor à primeira vista. Lili leva Tabaluga à presença de Arktos, sem saber que ele quer acabar com todos os dragões para congelar a Terra Verde.",
             "Cinemas": {
                 "CascaiShopping": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-26": [
                                 {
@@ -20191,8 +20191,8 @@
             }
         },
         {
-            "Title": "The Gentlemen - Senhores do Crime",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/the-gentlemen-senhores-do-crime.aspx",
+            "Nome": "The Gentlemen - Senhores do Crime",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/the-gentlemen-senhores-do-crime.aspx",
             "Género": "Ação",
             "Data de estreia": "25/02/2020",
             "Título Original": "The Gentlemen",
@@ -20205,8 +20205,8 @@
             "Sinopse": "A história do expatriado americano Mickey Pearson (Matthew McConaughey), um homem que construiu um império de marijuana altamente lucrativo em Londres. Quando se torna pública a notícia de que ele está a tentar lucrar com os negócios para se puder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, com a única tentativa de sabotarem o seu domínio de luxo. Realizado por Guy Ritche (Snatch – Porcos e Diamantes; Um Mal Nunca Vem Só) e com Hugh Grant, Michelle Dockery e Charlie Hunnam.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20252,8 +20252,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 4",
-                    "Dates": [
+                    "Sala": "Sala 4",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20299,8 +20299,8 @@
                     ]
                 },
                 "Alvaláxia": {
-                    "Room": "Sala 1",
-                    "Dates": [
+                    "Sala": "Sala 1",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20361,8 +20361,8 @@
                     ]
                 },
                 "Évora Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20408,8 +20408,8 @@
                     ]
                 },
                 "Foz Plaza": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20491,8 +20491,8 @@
                     ]
                 },
                 "Odivelas Strada": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20538,8 +20538,8 @@
                     ]
                 },
                 "Oeiras Parque": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20585,8 +20585,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 11",
-                    "Dates": [
+                    "Sala": "Sala 11",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20632,8 +20632,8 @@
                     ]
                 },
                 "Torres Vedras": {
-                    "Room": "Sala 2",
-                    "Dates": [
+                    "Sala": "Sala 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20711,8 +20711,8 @@
             }
         },
         {
-            "Title": "The Operative - Agente Infiltrada",
-            "url": "https://cinemas.nos.pt/Filmes/Pages/the-operative-agente-infiltrada.aspx",
+            "Nome": "The Operative - Agente Infiltrada",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/the-operative-agente-infiltrada.aspx",
             "Género": "Thriller",
             "Data de estreia": "16/07/2020",
             "Título Original": "The Operative",
@@ -20725,8 +20725,8 @@
             "Sinopse": "Rachel (Diane Kruger) é uma mulher ocidental no centro de uma teia de espionagem internacional, envolvendo o Irão, Israel e a Alemanha. Contratada pela Mossad como agente infiltrada no Teerão, Rachel assume o disfarce de uma professora de inglês para crianças de famílias locais influentes e traça o plano da sua missão secreta: aceder aos registos de uma empresa de produtos eletrónicos e usar este registo para intermediar a venda de componentes nucleares defeituosos aos Serviços Secretos Iranianos. Mas quando a sua missão se torna mais perigosa, ela decide desistir, forçando o seu chefe a encontrá-la antes que ela se torne uma ameaça para Israel.",
             "Cinemas": {
                 "Alameda Shop e Spot": {
-                    "Room": "Sala 5",
-                    "Dates": [
+                    "Sala": "Sala 5",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20802,8 +20802,8 @@
                     ]
                 },
                 "Alma Shopping": {
-                    "Room": "Sala 3",
-                    "Dates": [
+                    "Sala": "Sala 3",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20870,8 +20870,8 @@
                     ]
                 },
                 "Almada Forum": {
-                    "Room": "Sala 9",
-                    "Dates": [
+                    "Sala": "Sala 9",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -20962,8 +20962,8 @@
                     ]
                 },
                 "Amoreiras": {
-                    "Room": "VIP 2",
-                    "Dates": [
+                    "Sala": "VIP 2",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -21054,8 +21054,8 @@
                     ]
                 },
                 "Braga Parque": {
-                    "Room": "Sala 6",
-                    "Dates": [
+                    "Sala": "Sala 6",
+                    "Datas": [
                         {
                             "2020-07-24": [
                                 {
@@ -21101,8 +21101,8 @@
                     ]
                 },
                 "Parque Nascente": {
-                    "Room": "Sala 8",
-                    "Dates": [
+                    "Sala": "Sala 8",
+                    "Datas": [
                         {
                             "2020-07-25": [
                                 {
