@@ -60,13 +60,15 @@ for m in movies:
         for l in lines:
             cine = clean_spaces(l.find('div', class_='cinema').text)
             
+            room = clean_spaces(l.find('div', class_='room').text)
             if cine not in cinemas:
-                room = clean_spaces(l.find('div', class_='room').text)
                 
-                cinemas[cine] = {
-                    'Sala': room,
-                    'Datas': []
-                }
+                #cinemas[cine] = {
+                #    'Sala': room,
+                #    'Datas': []
+                #}
+                cinemas[cine] = {}
+            cinemas[cine][room] = []
 
             times = l.find('div', class_='hours').find_all('a')
             hours = []
@@ -79,7 +81,7 @@ for m in movies:
                 tmp = clean_spaces(time.text)
                 hours += [{tmp: time['href']}]
             
-            cinemas[cine]['Datas'] += [{date: hours}]
+            cinemas[cine][room] += [{date: hours}]
                 
     m['Cinemas'] = cinemas
 
