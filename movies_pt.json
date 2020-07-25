@@ -2088,9 +2088,6 @@
                         {
                             "2020-07-25": [
                                 {
-                                    "12h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1735210&DataSessao=2020-07-25&HoraSessao=12:40&Sala=5"
-                                },
-                                {
                                     "15h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1735210&DataSessao=2020-07-25&HoraSessao=15:10&Sala=5"
                                 },
                                 {
@@ -2675,9 +2672,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "12h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000431&DataSessao=2020-07-25&HoraSessao=12:40&Sala=2"
-                                },
                                 {
                                     "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000431&DataSessao=2020-07-25&HoraSessao=15:00&Sala=2"
                                 },
@@ -3334,9 +3328,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-25&HoraSessao=12:50&Sala=5"
-                                },
                                 {
                                     "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-25&HoraSessao=15:50&Sala=5"
                                 },
@@ -4195,9 +4186,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000431&DataSessao=2020-07-25&HoraSessao=13:00&Sala=1"
-                                },
                                 {
                                     "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000431&DataSessao=2020-07-25&HoraSessao=15:40&Sala=1"
                                 },
@@ -5521,9 +5509,6 @@
                         {
                             "2020-07-25": [
                                 {
-                                    "10h35": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=10:35&Sala=4"
-                                },
-                                {
                                     "13h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=13:15&Sala=4"
                                 },
                                 {
@@ -6016,9 +6001,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "12h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=12:30&Sala=2"
-                                },
                                 {
                                     "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=15:00&Sala=2"
                                 },
@@ -7038,6 +7020,13 @@
                                 },
                                 {
                                     "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=18:30&Sala=7"
+                                }
+                            ]
+                        },
+                        {
+                            "2020-07-25": [
+                                {
+                                    "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=20:45&Sala=10"
                                 }
                             ]
                         },
@@ -8218,9 +8207,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "12h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-25&HoraSessao=12:40&Sala=5"
-                                },
                                 {
                                     "15h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-25&HoraSessao=15:15&Sala=5"
                                 },
@@ -13200,9 +13186,6 @@
                         {
                             "2020-07-25": [
                                 {
-                                    "12h55": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1712850&DataSessao=2020-07-25&HoraSessao=12:55&Sala=12"
-                                },
-                                {
                                     "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1712850&DataSessao=2020-07-25&HoraSessao=16:00&Sala=12"
                                 },
                                 {
@@ -13539,9 +13522,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1712850&DataSessao=2020-07-25&HoraSessao=12:50&Sala=5"
-                                },
                                 {
                                     "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1712850&DataSessao=2020-07-25&HoraSessao=15:30&Sala=5"
                                 },
@@ -14036,9 +14016,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-25&HoraSessao=13:00&Sala=13"
-                                },
                                 {
                                     "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-25&HoraSessao=15:45&Sala=13"
                                 },
@@ -15140,9 +15117,6 @@
                         {
                             "2020-07-25": [
                                 {
-                                    "10h55": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1734120&DataSessao=2020-07-25&HoraSessao=10:55&Sala=12"
-                                },
-                                {
                                     "14h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1734120&DataSessao=2020-07-25&HoraSessao=14:30&Sala=12"
                                 },
                                 {
@@ -15357,9 +15331,6 @@
                         {
                             "2020-07-25": [
                                 {
-                                    "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1734120&DataSessao=2020-07-25&HoraSessao=13:00&Sala=1"
-                                },
-                                {
                                     "15h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1734120&DataSessao=2020-07-25&HoraSessao=15:15&Sala=1"
                                 }
                             ]
@@ -15490,9 +15461,6 @@
                     "Datas": [
                         {
                             "2020-07-25": [
-                                {
-                                    "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1734120&DataSessao=2020-07-25&HoraSessao=13:00&Sala=9"
-                                },
                                 {
                                     "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1734120&DataSessao=2020-07-25&HoraSessao=15:00&Sala=9"
                                 },

@@ -27,13 +27,53 @@ Contains information of the current week's movies in Portugal theaters. The cine
 ---
 
 ### Execute scripts:
-- Requirements:
-```
-pip install requests
-pip install beautifulsoup4
-```
+**Requirements**:
+- [Python 3.8](https://www.python.org/)
+- [pip](https://pypi.org/project/pip/)
 
-- Running the scripts:
-```
-python movies_scraper.py
-```
+    - Install/Upgrade Windows: 
+  
+      `py -m pip install --upgrade pip`
+
+    - Install/Upgrade Linux and macOS: 
+  
+      `python3 -m pip install --user --upgrade pip`
+
+**Setup virtualenv and install required python packages**
+- Windows:
+  
+  ```
+  py -m pip install --user virtualenv
+  py -m venv env
+  .\env\Scripts\activate
+  pip install -r requirements.txt
+  deactivate
+  ```
+
+- Linux and macOS:
+  
+  ```
+  python3 -m pip install --user virtualenv
+  python3 -m venv env
+  source env/bin/activate
+  pip install -r requirements.txt
+  deactivate
+  ```
+
+**Running**
+
+- Windows:
+  
+  ```
+  .\env\Scripts\activate
+  py movies_scraper.py
+  deactivate
+  ```
+
+- Linux and macOS:
+  
+  ```
+  source env/bin/activate
+  python3 movies_scraper.py
+  deactivate
+  ```
