@@ -6,14 +6,14 @@ Contains information of the current week's movies in Portugal theaters. The cine
 
 ---
 
-### Content from:
+## Content from:
 - [x] Cinemas NOS
 - [ ] UCI
 - [ ] Castello Lopes
 - [ ] Cinema City
 - [ ] Other Cinemas
 
-### Work plan:
+## Work plan:
 - [x] Scrape Cinemas NOS website
 - [ ] Scrape other cinemas websites
 - [ ] Automatically rerun script to scrape the information
@@ -27,7 +27,7 @@ Contains information of the current week's movies in Portugal theaters. The cine
 ---
 
 ### Execute scripts:
-**Requirements**:
+#### Requirements:
 - [Python 3.8](https://www.python.org/)
 - [pip](https://pypi.org/project/pip/)
 
@@ -39,7 +39,7 @@ Contains information of the current week's movies in Portugal theaters. The cine
   
       `python3 -m pip install --user --upgrade pip`
 
-**Setup virtualenv and install required python packages**
+#### Setup virtualenv and install required python packages:
 - Windows:
   
   ```
@@ -60,7 +60,7 @@ Contains information of the current week's movies in Portugal theaters. The cine
   deactivate
   ```
 
-**Running**
+#### Running:
 
 - Windows:
   
