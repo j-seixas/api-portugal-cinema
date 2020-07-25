@@ -4,6 +4,8 @@
 
 Contains information of the current week's movies in Portugal theaters. The cinema timetable is updated on thursday, so the file only contains information until the next wednesday (or until today, if the current day is wednesday).
 
+---
+
 ### Content from:
 - [x] Cinemas NOS
 - [ ] UCI
@@ -21,3 +23,17 @@ Contains information of the current week's movies in Portugal theaters. The cine
 - [ ] Scraping error detection
 - [ ] Github Pages to present project and access "api" (JSON file)
 
+
+---
+
+### Execute scripts:
+- Requirements:
+```
+pip install requests
+pip install beautifulsoup4
+```
+
+- Running the scripts:
+```
+python movies_scraper.py
+```
