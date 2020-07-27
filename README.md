@@ -1,4 +1,4 @@
-# api-portugal-cinema
+# API Portugal Cinema
 
 📽️ API for Portuguese Cinemas with the current movies in exhibition (even tho it's just a JSON file).
 
@@ -12,6 +12,7 @@ Contains information of the current week's movies in Portugal theaters. The cine
 - [ ] Castello Lopes
 - [ ] Cinema City
 - [ ] Other Cinemas
+- [ ] Sapo Mag Timetables
 
 ## Work plan:
 - [x] Scrape Cinemas NOS website

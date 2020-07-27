@@ -1,5 +1,5 @@
 {
-    "Cinemas NOS": [
+    "CinemasNOS": [
         {
             "Nome": "1917 IMAX",
             "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/1917-imax.aspx",
@@ -15,6 +15,17 @@
             "Duração (minutos)": "119",
             "Sinopse": "Sam Mendes, o realizador vencedor de um Óscar® de \"007: Skyfall\", \"007 Spectre\", \"Revolutionary Road\" e \"Beleza Americana\", traz a sua visão singular a este épico sobre a Primeira Guerra Mundial, \"1917\". No auge da Primeira Guerra Mundial, dois jovens soldados britânicos, Schofield (George MacKay) e Blake (Dean-Charles Chapman), recebem uma missão aparentemente impossível. Numa corrida contra o tempo, têm de atravessar território inimigo e entregar uma mensagem que impedirá um ataque letal contra centenas de soldados, entre eles o irmão de Blake.",
             "Cinemas": {
+                "Mar Matosinhos": {
+                    "Sala IMAX": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=20:45&Sala=8"
+                                }
+                            ]
+                        }
+                    ]
+                },
                 "CascaiShopping": {
                     "Sala IMAX": [
                         {
@@ -38,17 +49,6 @@
                                 },
                                 {
                                     "17h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=17:10&Sala=11"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Mar Matosinhos": {
-                    "Sala IMAX": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=20:45&Sala=8"
                                 }
                             ]
                         }
@@ -172,6 +172,51 @@
                         }
                     ]
                 },
+                "Gaia Shopping": {
+                    "Sala 2": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "16h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=16:40&Sala=2"
+                                },
+                                {
+                                    "19h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=19:40&Sala=2"
+                                },
+                                {
+                                    "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=22:00&Sala=2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Palácio do Gelo": {
+                    "Sala 3": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=15:50&Sala=3"
+                                },
+                                {
+                                    "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=18:15&Sala=3"
+                                },
+                                {
+                                    "21h55": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=21:55&Sala=3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Parque Nascente": {
+                    "Sala 7": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=21:15&Sala=7"
+                                }
+                            ]
+                        }
+                    ]
+                },
                 "Almada Forum": {
                     "Sala 11": [
                         {
@@ -222,100 +267,6 @@
                             "2020-07-29": [
                                 {
                                     "16h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=16:30&Sala=1"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Gaia Shopping": {
-                    "Sala 2": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "16h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=16:40&Sala=2"
-                                },
-                                {
-                                    "19h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=19:40&Sala=2"
-                                },
-                                {
-                                    "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=22:00&Sala=2"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Palácio do Gelo": {
-                    "Sala 3": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=15:50&Sala=3"
-                                },
-                                {
-                                    "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=18:15&Sala=3"
-                                },
-                                {
-                                    "21h55": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=21:55&Sala=3"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Parque Nascente": {
-                    "Sala 7": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1729180&DataSessao=2020-07-29&HoraSessao=21:15&Sala=7"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            }
-        },
-        {
-            "Nome": "A Ovelha Choné - O Filme: A Quinta Contra-Ataca",
-            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/a-ovelha-chone-a-quinta-contra-ataca-bragacine.aspx",
-            "Género": "Animação",
-            "Data de estreia": "12/12/2019",
-            "Título Original": "A Shaun The Sheep Movie: Farmageddon",
-            "Realizador": "Will Becher, Richard Phelan",
-            "Actores": "Justin Fletcher, John Sparkes, Chris Morrell",
-            "Distribuidora": "NOS Audiovisuais",
-            "País": "EUA, Reino Unido e França",
-            "Ano": "2019",
-            "Duração (minutos)": "87",
-            "Sinopse": "Quando uma impetuosa e adorável extraterrestre, com poderes espantosos, cai por acidente perto da quinta Mossy Bottom, Choné percebe rapidamente que é uma oportunidade para diversão e aventura com poderes alienígenas, e embarca numa missão para acompanhar a visitante intergaláctica de volta a casa, antes que uma organização sinistra a capture... Será que Choné e o rebanho conseguem impedir um Farmageddon na quinta Mossy Bottom, antes que seja tarde demais?",
-            "Cinemas": {
-                "Alvaláxia": {
-                    "Sala 11": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1717270&DataSessao=2020-07-26&HoraSessao=11:30&Sala=11"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Mar Shopping Algarve": {
-                    "Sala 4": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1717270&DataSessao=2020-07-26&HoraSessao=11:20&Sala=4"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Oeiras Parque": {
-                    "Sala 5": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W8&CodFilme=1717270&DataSessao=2020-07-26&HoraSessao=11:15&Sala=5"
                                 }
                             ]
                         }
@@ -617,23 +568,6 @@
                         }
                     ]
                 },
-                "Mar Matosinhos": {
-                    "Sala 2": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "13h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=13:30&Sala=2"
-                                },
-                                {
-                                    "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=16:00&Sala=2"
-                                },
-                                {
-                                    "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:30&Sala=2"
-                                }
-                            ]
-                        }
-                    ]
-                },
                 "Mar Shopping Algarve": {
                     "Sala 5": [
                         {
@@ -646,6 +580,90 @@
                                 },
                                 {
                                     "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:00&Sala=5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Nosso Shopping": {
+                    "Sala 5": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:00&Sala=5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Palácio do Gelo": {
+                    "Sala 5": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "21h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:30&Sala=5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Parque Nascente": {
+                    "Sala 10": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=13:50&Sala=10"
+                                },
+                                {
+                                    "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:00&Sala=10"
+                                },
+                                {
+                                    "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=20:45&Sala=10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Torres Vedras": {
+                    "Sala 4": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:15&Sala=4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Vasco da Gama": {
+                    "Sala 6": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=15:30&Sala=6"
+                                },
+                                {
+                                    "18h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:05&Sala=6"
+                                },
+                                {
+                                    "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:20&Sala=6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Mar Matosinhos": {
+                    "Sala 2": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "13h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=13:30&Sala=2"
+                                },
+                                {
+                                    "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=16:00&Sala=2"
+                                },
+                                {
+                                    "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:30&Sala=2"
                                 }
                             ]
                         }
@@ -683,76 +701,12 @@
                         }
                     ]
                 },
-                "Nosso Shopping": {
-                    "Sala 5": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:00&Sala=5"
-                                }
-                            ]
-                        }
-                    ]
-                },
                 "Odivelas Strada": {
                     "Sala 5": [
                         {
                             "2020-07-29": [
                                 {
                                     "19h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=19:15&Sala=5"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Palácio do Gelo": {
-                    "Sala 5": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "21h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:30&Sala=5"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Parque Nascente": {
-                    "Sala 10": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=13:50&Sala=10"
-                                },
-                                {
-                                    "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:00&Sala=10"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Torres Vedras": {
-                    "Sala 4": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:15&Sala=4"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Vasco da Gama": {
-                    "Sala 6": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=15:30&Sala=6"
-                                },
-                                {
-                                    "18h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:05&Sala=6"
-                                },
-                                {
-                                    "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=21:20&Sala=6"
                                 }
                             ]
                         }
@@ -869,26 +823,6 @@
                                 },
                                 {
                                     "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=22:20&Sala=5"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Colombo": {
-                    "Sala 4": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "14h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=14:45&Sala=4"
-                                },
-                                {
-                                    "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=17:20&Sala=4"
-                                },
-                                {
-                                    "19h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=19:40&Sala=4"
-                                },
-                                {
-                                    "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=22:00&Sala=4"
                                 }
                             ]
                         }
@@ -1195,6 +1129,26 @@
                             ]
                         }
                     ]
+                },
+                "Colombo": {
+                    "Sala 4": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "14h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=14:45&Sala=4"
+                                },
+                                {
+                                    "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=17:20&Sala=4"
+                                },
+                                {
+                                    "19h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=19:40&Sala=4"
+                                },
+                                {
+                                    "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=22:00&Sala=4"
+                                }
+                            ]
+                        }
+                    ]
                 }
             }
         },
@@ -1467,6 +1421,15 @@
             "Sinopse": "Num mundo de fantasia suburbana, dois irmãos elfos adolescentes (vozes de Chris Pratt e Tom Holland na versão original) embarcam numa grande e gloriosa demanda para descobrir se ainda existe magia no mundo. A nova longa-metragem original dos Estúdios de Animação da Pixar é realizada por Dan Scanlon e produzida por Kori Rae - a equipa por detrás do filme \"Monstros: A Universidade\".",
             "Cinemas": {
                 "Alameda Shop e Spot": {
+                    "Sala 4": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "19h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PT&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:50&Sala=4"
+                                }
+                            ]
+                        }
+                    ],
                     "Sala 3": [
                         {
                             "2020-07-29": [
@@ -1478,12 +1441,43 @@
                                 }
                             ]
                         }
-                    ],
-                    "Sala 4": [
+                    ]
+                },
+                "Gaia Shopping": {
+                    "Sala 5": [
                         {
                             "2020-07-29": [
                                 {
-                                    "19h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PT&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:50&Sala=4"
+                                    "17h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=17:00&Sala=5"
+                                },
+                                {
+                                    "19h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:50&Sala=5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Mar Matosinhos": {
+                    "Sala 2": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=21:00&Sala=2"
+                                }
+                            ]
+                        }
+                    ],
+                    "Sala 6": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "14h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=14:00&Sala=6"
+                                },
+                                {
+                                    "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=16:45&Sala=6"
+                                },
+                                {
+                                    "19h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:30&Sala=6"
                                 }
                             ]
                         }
@@ -1529,15 +1523,6 @@
                                 },
                                 {
                                     "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=18:20&Sala=1"
-                                }
-                            ]
-                        }
-                    ],
-                    "Sala 11": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1984310&DataSessao=2020-07-26&HoraSessao=11:00&Sala=11"
                                 }
                             ]
                         }
@@ -1629,15 +1614,6 @@
                                 },
                                 {
                                     "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=16:45&Sala=5"
-                                }
-                            ]
-                        }
-                    ],
-                    "Sala 7": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "18h25": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1984310&DataSessao=2020-07-26&HoraSessao=18:25&Sala=7"
                                 }
                             ]
                         }
@@ -1738,29 +1714,6 @@
                         }
                     ]
                 },
-                "Gaia Shopping": {
-                    "Sala 5": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "17h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=17:00&Sala=5"
-                                },
-                                {
-                                    "19h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:50&Sala=5"
-                                }
-                            ]
-                        }
-                    ],
-                    "Sala 9": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1984310&DataSessao=2020-07-26&HoraSessao=15:40&Sala=9"
-                                }
-                            ]
-                        }
-                    ]
-                },
                 "Maia Shopping": {
                     "Sala 5": [
                         {
@@ -1770,32 +1723,6 @@
                                 },
                                 {
                                     "19h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:15&Sala=5"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "Mar Matosinhos": {
-                    "Sala 2": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=21:00&Sala=2"
-                                }
-                            ]
-                        }
-                    ],
-                    "Sala 6": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "14h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=14:00&Sala=6"
-                                },
-                                {
-                                    "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=16:45&Sala=6"
-                                },
-                                {
-                                    "19h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=19:30&Sala=6"
                                 }
                             ]
                         }
@@ -1893,15 +1820,6 @@
                                 }
                             ]
                         }
-                    ],
-                    "Sala 3": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W8&CodFilme=1984310&DataSessao=2020-07-26&HoraSessao=11:30&Sala=3"
-                                }
-                            ]
-                        }
                     ]
                 },
                 "Palácio do Gelo": {
@@ -1930,15 +1848,6 @@
                                 },
                                 {
                                     "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1984310&DataSessao=2020-07-29&HoraSessao=18:30&Sala=7"
-                                }
-                            ]
-                        }
-                    ],
-                    "Sala 10": [
-                        {
-                            "2020-07-25": [
-                                {
-                                    "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1984310&DataSessao=2020-07-25&HoraSessao=20:45&Sala=10"
                                 }
                             ]
                         }
@@ -2477,23 +2386,6 @@
             "Duração (minutos)": "99",
             "Sinopse": "Desde miúda, Michelle Payne (Teresa Palmer) sonhava com o impossível: vencer o Melbourne Cup – uma duríssima corrida de cavalos de 3 quilómetros. Filha mais nova de uma família de dez, Michelle é criada apenas pelo pai, Paddy (Sam Neill). Deixa a escola aos 15 anos para se tornar jockey e depois de algumas dificuldades iniciais, consegue afirmar-se, mas uma tragédia familiar – a que se segue uma queda de cavalo quase fatal – põe fim ao seu sonho. Contudo, amparada pelo amor do pai e do irmão Stevie, Michelle não desiste. Contra o parecer dos médicos e apesar dos protestos dos irmãos, ela continua a montar e conhece Prince of Penzance. Juntos, ultrapassam obstáculos intransponíveis na luta pelo seu sonho: a corrida no Melbourne Cup de 2015, com apostas de 100 para 1. O resto é história.",
             "Cinemas": {
-                "Almada Forum": {
-                    "Sala 8": [
-                        {
-                            "2020-07-29": [
-                                {
-                                    "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=13:10&Sala=8"
-                                },
-                                {
-                                    "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=15:40&Sala=8"
-                                },
-                                {
-                                    "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=18:10&Sala=8"
-                                }
-                            ]
-                        }
-                    ]
-                },
                 "Alvaláxia": {
                     "Sala 7": [
                         {
@@ -2699,6 +2591,50 @@
                             "2020-07-29": [
                                 {
                                     "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=22:00&Sala=3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Almada Forum": {
+                    "Sala 8": [
+                        {
+                            "2020-07-29": [
+                                {
+                                    "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=13:10&Sala=8"
+                                },
+                                {
+                                    "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=15:40&Sala=8"
+                                },
+                                {
+                                    "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=18:10&Sala=8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "Nome": "Elvis  - That's The Way It Is",
+            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/elvis-thats-the-way-it-is.aspx",
+            "Género": "Documentário",
+            "Data de estreia": "13/08/2020",
+            "Título Original": "Elvis - That's The Way It Is",
+            "Realizador": "Denis Sanders",
+            "Actores": "Elvis Presley, James Burton, Glen D. Hardin",
+            "Distribuidora": "Trafalgar Releasing",
+            "País": "EUA",
+            "Ano": "1970",
+            "Duração (minutos)": "95",
+            "Sinopse": "Por uma única noite apenas e para celebrar os 85 anos do nascimento de Elvis Presley e os 50 anos desde o lançamento oficial deste filme, o Rei regressa aos cinemas, devidamente remasterizado, com \"Elvis - That's The Way It Is\", um imperdível evento para todos os fãs e curiosos à volta do mundo. A 31 de julho de 1969, em Nevada, Las Vegas, Elvis pisou os palcos num triunfante regresso aos concertos, algo que não fazia há mais de uma década. A nova série de espectáculos bateu todos os recordes de bilheteira e reergueu a carreira do Rei do Rock n' Roll. Este documentário/concerto traz-nos performances inesquecíveis de temas como Love Me Tender, Blue Suede Shoes, Heartbreak Hotel e Suspicious Minds. De volta às luzes do palco, o lendário cantor preparava-se para um regresso emocional e electrificante a uma carreira que lhe valeu um lugar indiscutível na história da música.",
+            "Cinemas": {
+                "NorteShopping": {
+                    "Sala 5": [
+                        {
+                            "2020-08-13": [
+                                {
+                                    "21h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1000433&DataSessao=2020-08-13&HoraSessao=21:30&Sala=5"
                                 }
                             ]
                         }
@@ -3101,9 +3037,9 @@
                 "NorteShopping": {
                     "Sala 9": [
                         {
-                            "2020-07-29": [
+                            "2020-07-27": [
                                 {
-                                    "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=22:20&Sala=9"
+                                    "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=22:20&Sala=9"
                                 }
                             ]
                         }
@@ -3714,33 +3650,6 @@
             }
         },
         {
-            "Nome": "Para Sama",
-            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/para-sama.aspx",
-            "Género": "Documentário",
-            "Data de estreia": "23/07/2020",
-            "Título Original": "For Sama",
-            "Realizador": "Waad Al-Kateab, Edward Watts",
-            "Actores": "Waad Al-Kateab, Hamza Al-Khateab, Sama Al-Khateab",
-            "Distribuidora": "Midas Filmes",
-            "País": "Reino Unido, Síria & EUA",
-            "Ano": "2019",
-            "Duração (minutos)": "100",
-            "Sinopse": "Uma carta de amor de uma jovem mãe para a sua filha, o filme conta a história de vida de Waad al-Kateab durante cinco anos de revolta em Alepo, na Síria, ao mesmo tempo que se apaixona, se casa e tem a filha Sama, tudo enquanto o conflito devastador cresce à sua volta.A sua câmara captura histórias incríveis de perda, alegria e sobrevivência enquanto Waad luta com uma escolha impossível – fugir ou não da cidade para proteger a vida da filha, quando sair significa abandonar a luta pela liberdade, pela qual já sacrificou tanto.",
-            "Cinemas": {
-                "Forum Madeira": {
-                    "Sala 3": [
-                        {
-                            "2020-07-25": [
-                                {
-                                    "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000432&DataSessao=2020-07-25&HoraSessao=21:00&Sala=3"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            }
-        },
-        {
             "Nome": "Patrick",
             "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/patrick.aspx",
             "Género": "Drama",
@@ -4231,17 +4140,6 @@
                             ]
                         }
                     ]
-                },
-                "Forum Madeira": {
-                    "Sala 2": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734120&DataSessao=2020-07-26&HoraSessao=11:30&Sala=2"
-                                }
-                            ]
-                        }
-                    ]
                 }
             }
         },
@@ -4422,6 +4320,9 @@
                     "Sala 9": [
                         {
                             "2020-07-29": [
+                                {
+                                    "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=15:40&Sala=9"
+                                },
                                 {
                                     "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:20&Sala=9"
                                 },
@@ -4641,15 +4542,6 @@
                                 },
                                 {
                                     "18h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000429&DataSessao=2020-07-29&HoraSessao=18:50&Sala=5"
-                                }
-                            ]
-                        }
-                    ],
-                    "Sala 7": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "10h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000429&DataSessao=2020-07-26&HoraSessao=10:30&Sala=7"
                                 }
                             ]
                         }
@@ -5038,33 +4930,6 @@
                             "2020-07-29": [
                                 {
                                     "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VI&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=22:20&Sala=1"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            }
-        },
-        {
-            "Nome": "Tabaluga e a Princesa de Gelo",
-            "Link Filme": "https://cinemas.nos.pt/Filmes/Pages/tabaluga-e-a-princesa-de-gelo.aspx",
-            "Género": "Animação",
-            "Data de estreia": "20/02/2020",
-            "Título Original": "Ice Princess Lily",
-            "Realizador": "Sven Unterwaldt Jr.",
-            "Actores": "Sissi Martins, Ruben Madureira",
-            "Distribuidora": "NOS Audiovisuais",
-            "País": "Alemanha & Canadá",
-            "Ano": "2018",
-            "Duração (minutos)": "90",
-            "Sinopse": "O jovem dragão Tabaluga vive com o pai adotivo, o corvo Kolk, na pitoresca Terra Verde. Como nunca aprendeu a cuspir fogo, ele precisa urgentemente dos conselhos de um verdadeiro dragão adulto, mas Tabaluga é o último da sua espécie. O único grande amigo que tem é Bully, uma joaninha faladora. Um dia, Tabaluga e Bully são atraídos para a Terra Gelada que é governada pelo malvado Arktos. Quando conhece Lili, a bela princesa do gelo, é amor à primeira vista. Lili leva Tabaluga à presença de Arktos, sem saber que ele quer acabar com todos os dragões para congelar a Terra Verde.",
-            "Cinemas": {
-                "CascaiShopping": {
-                    "Sala 2": [
-                        {
-                            "2020-07-26": [
-                                {
-                                    "11h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1727850&DataSessao=2020-07-26&HoraSessao=11:15&Sala=2"
                                 }
                             ]
                         }

@@ -62,11 +62,6 @@ for m in movies:
             
             room = clean_spaces(l.find('div', class_='room').text)
             if cine not in cinemas:
-                
-                #cinemas[cine] = {
-                #    'Sala': room,
-                #    'Datas': []
-                #}
                 cinemas[cine] = {}
             cinemas[cine][room] = []
 
@@ -85,6 +80,8 @@ for m in movies:
                 
     m['Cinemas'] = cinemas
 
-data = {'Cinemas NOS': movies}
+with open('movies_pt.json') as json_file:
+    data = json.load(json_file)    
+    data['CinemasNOS'] = movies
 with open('movies_pt.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, ensure_ascii=False)
