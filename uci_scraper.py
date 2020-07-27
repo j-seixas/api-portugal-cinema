@@ -5,18 +5,22 @@ import json
 def clean_spaces(value):
     return ' '.join(value.split())
 
-nos_url = 'https://cinemas.nos.pt'
-response = requests.get(nos_url)
+uci_url = 'https://ucicinemas.pt/Filmes/Cartaz'
+response = requests.get(uci_url)
 # Needs to return: <Response [200]>
 
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # Get all movies
+movies_li = soup.find_all('li', class_='listado-peliculas-item')
+print(movies_li)
+
+"""
 dropdown_movies = soup.find('article', class_='button is-hidden')
 movies_a = dropdown_movies.find_all('a', class_='list-item')
 
 
-movies = [{'Nome': item.text, 'Link Filme': nos_url + item['href']} for item in movies_a]
+movies = [{'Nome': item.text, 'Link Filme': uci_url + item['href']} for item in movies_a]
 
 # Get movie details
 for m in movies:
@@ -82,6 +86,8 @@ for m in movies:
 
 with open('movies_pt.json') as json_file:
     data = json.load(json_file)    
-    data['CinemasNOS'] = movies
+    data['UCICinemas'] = movies
 with open('movies_pt.json', 'w') as outfile:
     json.dump(data, outfile, indent=4, ensure_ascii=False)
+
+"""

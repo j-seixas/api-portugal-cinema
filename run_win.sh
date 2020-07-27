@@ -1,4 +1,4 @@
 #!/bin/bash
 .\env\Scripts\activate
-py movies_scraper.py
+py nos_scraper.py
 deactivate

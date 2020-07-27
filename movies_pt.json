@@ -15,19 +15,6 @@
             "Duração (minutos)": "119",
             "Sinopse": "Sam Mendes, o realizador vencedor de um Óscar® de \"007: Skyfall\", \"007 Spectre\", \"Revolutionary Road\" e \"Beleza Americana\", traz a sua visão singular a este épico sobre a Primeira Guerra Mundial, \"1917\". No auge da Primeira Guerra Mundial, dois jovens soldados britânicos, Schofield (George MacKay) e Blake (Dean-Charles Chapman), recebem uma missão aparentemente impossível. Numa corrida contra o tempo, têm de atravessar território inimigo e entregar uma mensagem que impedirá um ataque letal contra centenas de soldados, entre eles o irmão de Blake.",
             "Cinemas": {
-                "Mar Matosinhos": {
-                    "Sala IMAX": {
-                        "2020-07-27": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-27&HoraSessao=20:45&Sala=8"
-                        },
-                        "2020-07-28": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-28&HoraSessao=20:45&Sala=8"
-                        },
-                        "2020-07-29": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=20:45&Sala=8"
-                        }
-                    }
-                },
                 "CascaiShopping": {
                     "Sala IMAX": {
                         "2020-07-28": {
@@ -49,6 +36,16 @@
                         "2020-07-29": {
                             "14h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=14:10&Sala=11",
                             "17h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=17:10&Sala=11"
+                        }
+                    }
+                },
+                "Mar Matosinhos": {
+                    "Sala IMAX": {
+                        "2020-07-28": {
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-28&HoraSessao=20:45&Sala=8"
+                        },
+                        "2020-07-29": {
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1984200&DataSessao=2020-07-29&HoraSessao=20:45&Sala=8"
                         }
                     }
                 }
@@ -83,9 +80,6 @@
                 },
                 "Tavira Plaza": {
                     "Sala 3": {
-                        "2020-07-27": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1729200&DataSessao=2020-07-27&HoraSessao=20:30&Sala=3"
-                        },
                         "2020-07-28": {
                             "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1729200&DataSessao=2020-07-28&HoraSessao=20:30&Sala=3"
                         },
@@ -290,9 +284,6 @@
             "Cinemas": {
                 "Alma Shopping": {
                     "Sala 6": {
-                        "2020-07-27": {
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1729290&DataSessao=2020-07-27&HoraSessao=21:10&Sala=6"
-                        },
                         "2020-07-28": {
                             "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1729290&DataSessao=2020-07-28&HoraSessao=15:30&Sala=6",
                             "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1729290&DataSessao=2020-07-28&HoraSessao=18:20&Sala=6",
@@ -307,9 +298,6 @@
                 },
                 "Amoreiras": {
                     "VIP 3": {
-                        "2020-07-27": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1729290&DataSessao=2020-07-27&HoraSessao=20:30&Sala=9"
-                        },
                         "2020-07-28": {
                             "14h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1729290&DataSessao=2020-07-28&HoraSessao=14:00&Sala=9",
                             "16h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1729290&DataSessao=2020-07-28&HoraSessao=16:50&Sala=9",
@@ -620,23 +608,6 @@
                         }
                     }
                 },
-                "Parque Nascente": {
-                    "Sala 10": {
-                        "2020-07-27": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-27&HoraSessao=20:45&Sala=10"
-                        },
-                        "2020-07-28": {
-                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-28&HoraSessao=13:50&Sala=10",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-28&HoraSessao=18:00&Sala=10",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-28&HoraSessao=20:45&Sala=10"
-                        },
-                        "2020-07-29": {
-                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=13:50&Sala=10",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:00&Sala=10",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=20:45&Sala=10"
-                        }
-                    }
-                },
                 "Torres Vedras": {
                     "Sala 4": {
                         "2020-07-27": {
@@ -714,6 +685,20 @@
                         },
                         "2020-07-29": {
                             "19h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=19:15&Sala=5"
+                        }
+                    }
+                },
+                "Parque Nascente": {
+                    "Sala 10": {
+                        "2020-07-28": {
+                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-28&HoraSessao=13:50&Sala=10",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-28&HoraSessao=18:00&Sala=10",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-28&HoraSessao=20:45&Sala=10"
+                        },
+                        "2020-07-29": {
+                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=13:50&Sala=10",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=18:00&Sala=10",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1735210&DataSessao=2020-07-29&HoraSessao=20:45&Sala=10"
                         }
                     }
                 }
@@ -845,57 +830,6 @@
                         }
                     }
                 },
-                "Ferrara Plaza": {
-                    "Sala 2": {
-                        "2020-07-27": {
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-27&HoraSessao=21:10&Sala=2"
-                        },
-                        "2020-07-28": {
-                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=16:00&Sala=2",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:30&Sala=2",
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:10&Sala=2"
-                        },
-                        "2020-07-29": {
-                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=16:00&Sala=2",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:30&Sala=2",
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:10&Sala=2"
-                        }
-                    }
-                },
-                "Forum Coimbra": {
-                    "Sala 6": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-27&HoraSessao=20:50&Sala=6"
-                        },
-                        "2020-07-28": {
-                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=15:30&Sala=6",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:00&Sala=6",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=20:50&Sala=6"
-                        },
-                        "2020-07-29": {
-                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:30&Sala=6",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:00&Sala=6",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=20:50&Sala=6"
-                        }
-                    }
-                },
-                "Forum Madeira": {
-                    "Sala 5": {
-                        "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-27&HoraSessao=21:00&Sala=5"
-                        },
-                        "2020-07-28": {
-                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=15:50&Sala=5",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:30&Sala=5",
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:00&Sala=5"
-                        },
-                        "2020-07-29": {
-                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:50&Sala=5",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:30&Sala=5",
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:00&Sala=5"
-                        }
-                    }
-                },
                 "Gaia Shopping": {
                     "Sala 4": {
                         "2020-07-27": {
@@ -910,23 +844,6 @@
                             "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=16:00&Sala=4",
                             "18h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:50&Sala=4",
                             "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:20&Sala=4"
-                        }
-                    }
-                },
-                "Maia Shopping": {
-                    "Sala 1": {
-                        "2020-07-27": {
-                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-27&HoraSessao=21:05&Sala=1"
-                        },
-                        "2020-07-28": {
-                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=15:30&Sala=1",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:00&Sala=1",
-                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:05&Sala=1"
-                        },
-                        "2020-07-29": {
-                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:30&Sala=1",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:00&Sala=1",
-                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:05&Sala=1"
                         }
                     }
                 },
@@ -1038,23 +955,6 @@
                         }
                     }
                 },
-                "Palácio do Gelo": {
-                    "Sala 1": {
-                        "2020-07-27": {
-                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-27&HoraSessao=21:05&Sala=1"
-                        },
-                        "2020-07-28": {
-                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=16:00&Sala=1",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:30&Sala=1",
-                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:05&Sala=1"
-                        },
-                        "2020-07-29": {
-                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=16:00&Sala=1",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:30&Sala=1",
-                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:05&Sala=1"
-                        }
-                    }
-                },
                 "Parque Nascente": {
                     "Sala 3": {
                         "2020-07-27": {
@@ -1086,23 +986,6 @@
                             "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:40&Sala=1",
                             "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:20&Sala=1",
                             "21h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:50&Sala=1"
-                        }
-                    }
-                },
-                "Torres Vedras": {
-                    "Sala 1": {
-                        "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-27&HoraSessao=21:00&Sala=1"
-                        },
-                        "2020-07-28": {
-                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=13:50&Sala=1",
-                            "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=17:20&Sala=1",
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:00&Sala=1"
-                        },
-                        "2020-07-29": {
-                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=13:50&Sala=1",
-                            "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=17:20&Sala=1",
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:00&Sala=1"
                         }
                     }
                 },
@@ -1138,6 +1021,90 @@
                             "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=17:20&Sala=4",
                             "19h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=19:40&Sala=4",
                             "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=22:00&Sala=4"
+                        }
+                    }
+                },
+                "Ferrara Plaza": {
+                    "Sala 2": {
+                        "2020-07-28": {
+                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=16:00&Sala=2",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:30&Sala=2",
+                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:10&Sala=2"
+                        },
+                        "2020-07-29": {
+                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=16:00&Sala=2",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:30&Sala=2",
+                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FP&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:10&Sala=2"
+                        }
+                    }
+                },
+                "Forum Coimbra": {
+                    "Sala 6": {
+                        "2020-07-28": {
+                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=15:30&Sala=6",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:00&Sala=6",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=20:50&Sala=6"
+                        },
+                        "2020-07-29": {
+                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:30&Sala=6",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:00&Sala=6",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=20:50&Sala=6"
+                        }
+                    }
+                },
+                "Forum Madeira": {
+                    "Sala 5": {
+                        "2020-07-28": {
+                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=15:50&Sala=5",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:30&Sala=5",
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:00&Sala=5"
+                        },
+                        "2020-07-29": {
+                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:50&Sala=5",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:30&Sala=5",
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:00&Sala=5"
+                        }
+                    }
+                },
+                "Maia Shopping": {
+                    "Sala 1": {
+                        "2020-07-28": {
+                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=15:30&Sala=1",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:00&Sala=1",
+                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:05&Sala=1"
+                        },
+                        "2020-07-29": {
+                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=15:30&Sala=1",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:00&Sala=1",
+                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:05&Sala=1"
+                        }
+                    }
+                },
+                "Palácio do Gelo": {
+                    "Sala 1": {
+                        "2020-07-28": {
+                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=16:00&Sala=1",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=18:30&Sala=1",
+                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:05&Sala=1"
+                        },
+                        "2020-07-29": {
+                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=16:00&Sala=1",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=18:30&Sala=1",
+                            "21h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:05&Sala=1"
+                        }
+                    }
+                },
+                "Torres Vedras": {
+                    "Sala 1": {
+                        "2020-07-28": {
+                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=13:50&Sala=1",
+                            "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=17:20&Sala=1",
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-28&HoraSessao=21:00&Sala=1"
+                        },
+                        "2020-07-29": {
+                            "13h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=13:50&Sala=1",
+                            "17h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=17:20&Sala=1",
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000431&DataSessao=2020-07-29&HoraSessao=21:00&Sala=1"
                         }
                     }
                 }
@@ -1369,25 +1336,6 @@
             "Duração (minutos)": "109",
             "Sinopse": "Informamos que as sessões em 4DX vão ter uma limitação de efeitos. Com esta medida garantimos a todos uma experiência de cinema segura.\n\nBaseado no best-seller de banda desenhada, Vin Diesel protagoniza “Bloodshot” na pele de Ray Garrison, um soldado recentemente morto em combate e ressuscitado como o super-humano Bloodshot da empresa RST. Com um exército de nanotecnologia nas suas veias, Ray é uma força imparável - mais forte do que nunca e capaz de se curar instantaneamente. Mas, ao controlar o seu corpo, a empresa controla também a sua mente e as suas memórias. Agora, Ray não sabe o que é real e o que não é, mas está decidido a descobrir a verdade.",
             "Cinemas": {
-                "Almada Forum": {
-                    "Sala 4DX": {
-                        "2020-07-27": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-27&HoraSessao=20:45&Sala=14"
-                        },
-                        "2020-07-28": {
-                            "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=12:50&Sala=14",
-                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=15:30&Sala=14",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=18:00&Sala=14",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=20:45&Sala=14"
-                        },
-                        "2020-07-29": {
-                            "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=12:50&Sala=14",
-                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=15:30&Sala=14",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=18:00&Sala=14",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=20:45&Sala=14"
-                        }
-                    }
-                },
                 "Gaia Shopping": {
                     "Sala 4DX": {
                         "2020-07-27": {
@@ -1402,6 +1350,22 @@
                             "15h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=15:10&Sala=1",
                             "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=18:10&Sala=1",
                             "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=21:00&Sala=1"
+                        }
+                    }
+                },
+                "Almada Forum": {
+                    "Sala 4DX": {
+                        "2020-07-28": {
+                            "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=12:50&Sala=14",
+                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=15:30&Sala=14",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=18:00&Sala=14",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-28&HoraSessao=20:45&Sala=14"
+                        },
+                        "2020-07-29": {
+                            "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=12:50&Sala=14",
+                            "15h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=15:30&Sala=14",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=18:00&Sala=14",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1000406&DataSessao=2020-07-29&HoraSessao=20:45&Sala=14"
                         }
                     }
                 }
@@ -1879,9 +1843,6 @@
                 },
                 "Palácio do Gelo": {
                     "Sala 4": {
-                        "2020-07-27": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000426&DataSessao=2020-07-27&HoraSessao=20:45&Sala=4"
-                        },
                         "2020-07-28": {
                             "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PG&CodFilme=1000426&DataSessao=2020-07-28&HoraSessao=20:45&Sala=4"
                         },
@@ -2052,59 +2013,6 @@
                         }
                     }
                 },
-                "Colombo": {
-                    "Sala 8": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-27&HoraSessao=20:50&Sala=8"
-                        },
-                        "2020-07-28": {
-                            "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=13:10&Sala=8",
-                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=15:45&Sala=8",
-                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=18:15&Sala=8",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=20:50&Sala=8"
-                        },
-                        "2020-07-29": {
-                            "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=13:10&Sala=8",
-                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=15:45&Sala=8",
-                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=18:15&Sala=8",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=20:50&Sala=8"
-                        }
-                    }
-                },
-                "Évora Plaza": {
-                    "Sala 5": {
-                        "2020-07-27": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-27&HoraSessao=20:45&Sala=5"
-                        },
-                        "2020-07-28": {
-                            "15h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=15:15&Sala=5",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=18:00&Sala=5",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=20:45&Sala=5"
-                        },
-                        "2020-07-29": {
-                            "15h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=15:15&Sala=5",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=18:00&Sala=5",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=20:45&Sala=5"
-                        }
-                    }
-                },
-                "Forum Madeira": {
-                    "Sala 2": {
-                        "2020-07-27": {
-                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-27&HoraSessao=20:40&Sala=2"
-                        },
-                        "2020-07-28": {
-                            "14h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=14:40&Sala=2",
-                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=17:50&Sala=2",
-                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=20:40&Sala=2"
-                        },
-                        "2020-07-29": {
-                            "14h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=14:40&Sala=2",
-                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=17:50&Sala=2",
-                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=20:40&Sala=2"
-                        }
-                    }
-                },
                 "Foz Plaza": {
                     "Sala 2": {
                         "2020-07-27": {
@@ -2191,21 +2099,6 @@
                             "16h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=16:15&Sala=6",
                             "19h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=19:00&Sala=6",
                             "21h55": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=21:55&Sala=6"
-                        }
-                    }
-                },
-                "Odivelas Strada": {
-                    "Sala 4": {
-                        "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-27&HoraSessao=21:00&Sala=4"
-                        },
-                        "2020-07-28": {
-                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=16:45&Sala=4",
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=21:00&Sala=4"
-                        },
-                        "2020-07-29": {
-                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=16:45&Sala=4",
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=21:00&Sala=4"
                         }
                     }
                 },
@@ -2297,6 +2190,62 @@
                             "22h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=22:15&Sala=2"
                         }
                     }
+                },
+                "Colombo": {
+                    "Sala 8": {
+                        "2020-07-28": {
+                            "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=13:10&Sala=8",
+                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=15:45&Sala=8",
+                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=18:15&Sala=8",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=20:50&Sala=8"
+                        },
+                        "2020-07-29": {
+                            "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=13:10&Sala=8",
+                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=15:45&Sala=8",
+                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=18:15&Sala=8",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W1&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=20:50&Sala=8"
+                        }
+                    }
+                },
+                "Évora Plaza": {
+                    "Sala 5": {
+                        "2020-07-28": {
+                            "15h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=15:15&Sala=5",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=18:00&Sala=5",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=20:45&Sala=5"
+                        },
+                        "2020-07-29": {
+                            "15h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=15:15&Sala=5",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=18:00&Sala=5",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=20:45&Sala=5"
+                        }
+                    }
+                },
+                "Forum Madeira": {
+                    "Sala 2": {
+                        "2020-07-28": {
+                            "14h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=14:40&Sala=2",
+                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=17:50&Sala=2",
+                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=20:40&Sala=2"
+                        },
+                        "2020-07-29": {
+                            "14h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=14:40&Sala=2",
+                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=17:50&Sala=2",
+                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=20:40&Sala=2"
+                        }
+                    }
+                },
+                "Odivelas Strada": {
+                    "Sala 4": {
+                        "2020-07-28": {
+                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=16:45&Sala=4",
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-28&HoraSessao=21:00&Sala=4"
+                        },
+                        "2020-07-29": {
+                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=16:45&Sala=4",
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WC&CodFilme=1734100&DataSessao=2020-07-29&HoraSessao=21:00&Sala=4"
+                        }
+                    }
                 }
             }
         },
@@ -2374,23 +2323,6 @@
                             "14h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=14:00&Sala=7",
                             "16h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=16:40&Sala=7",
                             "22h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=22:05&Sala=7"
-                        }
-                    }
-                },
-                "Braga Parque": {
-                    "Sala 7": {
-                        "2020-07-27": {
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-27&HoraSessao=20:45&Sala=7"
-                        },
-                        "2020-07-28": {
-                            "14h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=14:50&Sala=7",
-                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=17:50&Sala=7",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=20:45&Sala=7"
-                        },
-                        "2020-07-29": {
-                            "14h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=14:50&Sala=7",
-                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=17:50&Sala=7",
-                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=20:45&Sala=7"
                         }
                     }
                 },
@@ -2483,19 +2415,6 @@
                         },
                         "2020-07-29": {
                             "22h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=22:30&Sala=3"
-                        }
-                    }
-                },
-                "Mar Shopping Algarve": {
-                    "Sala 1": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1726720&DataSessao=2020-07-27&HoraSessao=20:50&Sala=1"
-                        },
-                        "2020-07-28": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=20:50&Sala=1"
-                        },
-                        "2020-07-29": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=20:50&Sala=1"
                         }
                     }
                 },
@@ -2601,6 +2520,30 @@
                             "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=13:10&Sala=8",
                             "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=15:40&Sala=8",
                             "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=18:10&Sala=8"
+                        }
+                    }
+                },
+                "Braga Parque": {
+                    "Sala 7": {
+                        "2020-07-28": {
+                            "14h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=14:50&Sala=7",
+                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=17:50&Sala=7",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=20:45&Sala=7"
+                        },
+                        "2020-07-29": {
+                            "14h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=14:50&Sala=7",
+                            "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=17:50&Sala=7",
+                            "20h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=20:45&Sala=7"
+                        }
+                    }
+                },
+                "Mar Shopping Algarve": {
+                    "Sala 1": {
+                        "2020-07-28": {
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1726720&DataSessao=2020-07-28&HoraSessao=20:50&Sala=1"
+                        },
+                        "2020-07-29": {
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LL&CodFilme=1726720&DataSessao=2020-07-29&HoraSessao=20:50&Sala=1"
                         }
                     }
                 }
@@ -2911,19 +2854,6 @@
                         }
                     }
                 },
-                "Forum Algarve": {
-                    "Sala 2": {
-                        "2020-07-27": {
-                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1732760&DataSessao=2020-07-27&HoraSessao=20:40&Sala=2"
-                        },
-                        "2020-07-28": {
-                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1732760&DataSessao=2020-07-28&HoraSessao=20:40&Sala=2"
-                        },
-                        "2020-07-29": {
-                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1732760&DataSessao=2020-07-29&HoraSessao=20:40&Sala=2"
-                        }
-                    }
-                },
                 "Parque Nascente": {
                     "Sala 9": {
                         "2020-07-27": {
@@ -2934,6 +2864,16 @@
                         },
                         "2020-07-29": {
                             "22h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1732760&DataSessao=2020-07-29&HoraSessao=22:10&Sala=9"
+                        }
+                    }
+                },
+                "Forum Algarve": {
+                    "Sala 2": {
+                        "2020-07-28": {
+                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1732760&DataSessao=2020-07-28&HoraSessao=20:40&Sala=2"
+                        },
+                        "2020-07-29": {
+                            "20h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1732760&DataSessao=2020-07-29&HoraSessao=20:40&Sala=2"
                         }
                     }
                 }
@@ -2968,23 +2908,6 @@
                         }
                     }
                 },
-                "Alma Shopping": {
-                    "Sala 7": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=20:50&Sala=7"
-                        },
-                        "2020-07-28": {
-                            "15h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=15:10&Sala=7",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=18:00&Sala=7",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=20:50&Sala=7"
-                        },
-                        "2020-07-29": {
-                            "15h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=15:10&Sala=7",
-                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=18:00&Sala=7",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=20:50&Sala=7"
-                        }
-                    }
-                },
                 "Almada Forum": {
                     "Sala 10": {
                         "2020-07-27": {
@@ -2998,11 +2921,29 @@
                         }
                     }
                 },
-                "Alvaláxia": {
+                "NorteShopping": {
                     "Sala 9": {
                         "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=21:00&Sala=9"
+                            "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=22:20&Sala=9"
+                        }
+                    }
+                },
+                "Alma Shopping": {
+                    "Sala 7": {
+                        "2020-07-28": {
+                            "15h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=15:10&Sala=7",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=18:00&Sala=7",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=20:50&Sala=7"
                         },
+                        "2020-07-29": {
+                            "15h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=15:10&Sala=7",
+                            "18h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=18:00&Sala=7",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=20:50&Sala=7"
+                        }
+                    }
+                },
+                "Alvaláxia": {
+                    "Sala 9": {
                         "2020-07-28": {
                             "13h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=13:10&Sala=9",
                             "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=15:40&Sala=9",
@@ -3019,9 +2960,6 @@
                 },
                 "Amoreiras": {
                     "Sala 3": {
-                        "2020-07-27": {
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=21:20&Sala=3"
-                        },
                         "2020-07-28": {
                             "18h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=18:40&Sala=3",
                             "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=21:20&Sala=3"
@@ -3034,21 +2972,11 @@
                 },
                 "Forum Algarve": {
                     "Sala 4": {
-                        "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=21:00&Sala=4"
-                        },
                         "2020-07-28": {
                             "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1000421&DataSessao=2020-07-28&HoraSessao=21:00&Sala=4"
                         },
                         "2020-07-29": {
                             "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FA&CodFilme=1000421&DataSessao=2020-07-29&HoraSessao=21:00&Sala=4"
-                        }
-                    }
-                },
-                "NorteShopping": {
-                    "Sala 9": {
-                        "2020-07-27": {
-                            "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W6&CodFilme=1000421&DataSessao=2020-07-27&HoraSessao=22:20&Sala=9"
                         }
                     }
                 },
@@ -3111,23 +3039,6 @@
             "Duração (minutos)": "90",
             "Sinopse": "Durante o turno da noite, Bart Bromley (Tye Sheridan) um jovem rececionista, testemunha o assassinato de uma mulher num dos quartos do hotel, mas os seus comportamentos sus-peitos acabam por o colocar como principal suspeito. No decorrer da investigação, Bart cria uma relação próxima com uma das hóspedes, Andrea (Ana de Armas), e rapidamente percebe que tem de parar o verdadeiro assassino antes que ela seja a próxima vítima. As imagens das câmaras de vigilância, que Bart mantém em segredo para observar os hóspedes, são a única forma de conseguir provar a sua inocência e salvar Andrea.",
             "Cinemas": {
-                "Alegro Montijo": {
-                    "Sala 3": {
-                        "2020-07-27": {
-                            "20h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-27&HoraSessao=20:00&Sala=3"
-                        },
-                        "2020-07-28": {
-                            "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=15:00&Sala=3",
-                            "17h25": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=17:25&Sala=3",
-                            "20h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=20:00&Sala=3"
-                        },
-                        "2020-07-29": {
-                            "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=15:00&Sala=3",
-                            "17h25": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=17:25&Sala=3",
-                            "20h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=20:00&Sala=3"
-                        }
-                    }
-                },
                 "Almada Forum": {
                     "Sala 3": {
                         "2020-07-27": {
@@ -3289,23 +3200,6 @@
                         }
                     }
                 },
-                "Maia Shopping": {
-                    "Sala 2": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-27&HoraSessao=20:50&Sala=2"
-                        },
-                        "2020-07-28": {
-                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=15:45&Sala=2",
-                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=18:15&Sala=2",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=20:50&Sala=2"
-                        },
-                        "2020-07-29": {
-                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=15:45&Sala=2",
-                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=18:15&Sala=2",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=20:50&Sala=2"
-                        }
-                    }
-                },
                 "Mar Matosinhos": {
                     "Sala 4": {
                         "2020-07-27": {
@@ -3421,21 +3315,6 @@
                         }
                     }
                 },
-                "Tavira Plaza": {
-                    "Sala 2": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-27&HoraSessao=20:50&Sala=2"
-                        },
-                        "2020-07-28": {
-                            "17h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=17:40&Sala=2",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=20:50&Sala=2"
-                        },
-                        "2020-07-29": {
-                            "17h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=17:40&Sala=2",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=20:50&Sala=2"
-                        }
-                    }
-                },
                 "Vasco da Gama": {
                     "Sala 4": {
                         "2020-07-27": {
@@ -3452,6 +3331,46 @@
                             "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=15:50&Sala=4",
                             "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=18:20&Sala=4",
                             "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W9&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=21:00&Sala=4"
+                        }
+                    }
+                },
+                "Alegro Montijo": {
+                    "Sala 3": {
+                        "2020-07-28": {
+                            "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=15:00&Sala=3",
+                            "17h25": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=17:25&Sala=3",
+                            "20h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=20:00&Sala=3"
+                        },
+                        "2020-07-29": {
+                            "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=15:00&Sala=3",
+                            "17h25": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=17:25&Sala=3",
+                            "20h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=20:00&Sala=3"
+                        }
+                    }
+                },
+                "Maia Shopping": {
+                    "Sala 2": {
+                        "2020-07-28": {
+                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=15:45&Sala=2",
+                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=18:15&Sala=2",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=20:50&Sala=2"
+                        },
+                        "2020-07-29": {
+                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=15:45&Sala=2",
+                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=18:15&Sala=2",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W3&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=20:50&Sala=2"
+                        }
+                    }
+                },
+                "Tavira Plaza": {
+                    "Sala 2": {
+                        "2020-07-28": {
+                            "17h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=17:40&Sala=2",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-28&HoraSessao=20:50&Sala=2"
+                        },
+                        "2020-07-29": {
+                            "17h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=17:40&Sala=2",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TA&CodFilme=1000423&DataSessao=2020-07-29&HoraSessao=20:50&Sala=2"
                         }
                     }
                 }
@@ -3696,25 +3615,6 @@
                         }
                     }
                 },
-                "Almada Forum": {
-                    "Sala 13": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-27&HoraSessao=20:50&Sala=13"
-                        },
-                        "2020-07-28": {
-                            "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=13:00&Sala=13",
-                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=15:45&Sala=13",
-                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=18:15&Sala=13",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=20:50&Sala=13"
-                        },
-                        "2020-07-29": {
-                            "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=13:00&Sala=13",
-                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=15:45&Sala=13",
-                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=18:15&Sala=13",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=20:50&Sala=13"
-                        }
-                    }
-                },
                 "Alvaláxia": {
                     "Sala 5": {
                         "2020-07-27": {
@@ -3750,23 +3650,6 @@
                             "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=16:00&Sala=2",
                             "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=18:20&Sala=2",
                             "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=21:00&Sala=2"
-                        }
-                    }
-                },
-                "Braga Parque": {
-                    "Sala 8": {
-                        "2020-07-27": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-27&HoraSessao=20:30&Sala=8"
-                        },
-                        "2020-07-28": {
-                            "14h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=14:30&Sala=8",
-                            "17h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=17:30&Sala=8",
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=20:30&Sala=8"
-                        },
-                        "2020-07-29": {
-                            "14h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=14:30&Sala=8",
-                            "17h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=17:30&Sala=8",
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=20:30&Sala=8"
                         }
                     }
                 },
@@ -3839,6 +3722,36 @@
                             "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W8&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=21:15&Sala=5"
                         }
                     }
+                },
+                "Almada Forum": {
+                    "Sala 13": {
+                        "2020-07-28": {
+                            "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=13:00&Sala=13",
+                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=15:45&Sala=13",
+                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=18:15&Sala=13",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=20:50&Sala=13"
+                        },
+                        "2020-07-29": {
+                            "13h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=13:00&Sala=13",
+                            "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=15:45&Sala=13",
+                            "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=18:15&Sala=13",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WB&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=20:50&Sala=13"
+                        }
+                    }
+                },
+                "Braga Parque": {
+                    "Sala 8": {
+                        "2020-07-28": {
+                            "14h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=14:30&Sala=8",
+                            "17h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=17:30&Sala=8",
+                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-28&HoraSessao=20:30&Sala=8"
+                        },
+                        "2020-07-29": {
+                            "14h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=14:30&Sala=8",
+                            "17h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=17:30&Sala=8",
+                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1742370&DataSessao=2020-07-29&HoraSessao=20:30&Sala=8"
+                        }
+                    }
                 }
             }
         },
@@ -3901,32 +3814,6 @@
                         }
                     }
                 },
-                "Foz Plaza": {
-                    "Sala 4": {
-                        "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1736150&DataSessao=2020-07-27&HoraSessao=21:00&Sala=4"
-                        },
-                        "2020-07-28": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1736150&DataSessao=2020-07-28&HoraSessao=21:00&Sala=4"
-                        },
-                        "2020-07-29": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1736150&DataSessao=2020-07-29&HoraSessao=21:00&Sala=4"
-                        }
-                    }
-                },
-                "Gaia Shopping": {
-                    "Sala 7": {
-                        "2020-07-27": {
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1736150&DataSessao=2020-07-27&HoraSessao=21:10&Sala=7"
-                        },
-                        "2020-07-28": {
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1736150&DataSessao=2020-07-28&HoraSessao=21:10&Sala=7"
-                        },
-                        "2020-07-29": {
-                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1736150&DataSessao=2020-07-29&HoraSessao=21:10&Sala=7"
-                        }
-                    }
-                },
                 "Mar Matosinhos": {
                     "Sala 5": {
                         "2020-07-27": {
@@ -3937,6 +3824,26 @@
                         },
                         "2020-07-29": {
                             "21h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=IK&CodFilme=1736150&DataSessao=2020-07-29&HoraSessao=21:45&Sala=5"
+                        }
+                    }
+                },
+                "Foz Plaza": {
+                    "Sala 4": {
+                        "2020-07-28": {
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1736150&DataSessao=2020-07-28&HoraSessao=21:00&Sala=4"
+                        },
+                        "2020-07-29": {
+                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FF&CodFilme=1736150&DataSessao=2020-07-29&HoraSessao=21:00&Sala=4"
+                        }
+                    }
+                },
+                "Gaia Shopping": {
+                    "Sala 7": {
+                        "2020-07-28": {
+                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1736150&DataSessao=2020-07-28&HoraSessao=21:10&Sala=7"
+                        },
+                        "2020-07-29": {
+                            "21h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1736150&DataSessao=2020-07-29&HoraSessao=21:10&Sala=7"
                         }
                     }
                 },
@@ -4133,23 +4040,6 @@
             "Duração (minutos)": "90",
             "Sinopse": "Quando o seu irmão Mathias fica gravemente ferido num assalto, Jamie persegue Rich, um médico cirurgião, desde o hospital onde trabalha até sua casa. Fazendo reféns a mulher e filha de Rich, Jamie força-o a operar Mathias. Para que a sua família sobreviva Rich terá de sobreviver nessa noite, deixar para trás as desavenças com o seu pai, Frank, um xerife reformado, e, através dessa aliança familiar, ganhar vantagem face aos dois criminosos.",
             "Cinemas": {
-                "Alegro Montijo": {
-                    "Sala 5": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=20:50&Sala=5"
-                        },
-                        "2020-07-28": {
-                            "15h35": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=15:35&Sala=5",
-                            "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:10&Sala=5",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=20:50&Sala=5"
-                        },
-                        "2020-07-29": {
-                            "15h35": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=15:35&Sala=5",
-                            "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:10&Sala=5",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=20:50&Sala=5"
-                        }
-                    }
-                },
                 "Almada Forum": {
                     "Sala 7": {
                         "2020-07-27": {
@@ -4188,42 +4078,6 @@
                         }
                     }
                 },
-                "Braga Parque": {
-                    "Sala 4": {
-                        "2020-07-27": {
-                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=21:15&Sala=4"
-                        },
-                        "2020-07-28": {
-                            "13h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=13:20&Sala=4",
-                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=16:00&Sala=4",
-                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=21:15&Sala=4"
-                        },
-                        "2020-07-29": {
-                            "13h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=13:20&Sala=4",
-                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=16:00&Sala=4",
-                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=21:15&Sala=4"
-                        }
-                    }
-                },
-                "CascaiShopping": {
-                    "Sala 2": {
-                        "2020-07-27": {
-                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=21:15&Sala=2"
-                        },
-                        "2020-07-28": {
-                            "14h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=14:15&Sala=2",
-                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=16:45&Sala=2",
-                            "19h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=19:00&Sala=2",
-                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=21:15&Sala=2"
-                        },
-                        "2020-07-29": {
-                            "14h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=14:15&Sala=2",
-                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=16:45&Sala=2",
-                            "19h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=19:00&Sala=2",
-                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=21:15&Sala=2"
-                        }
-                    }
-                },
                 "Colombo": {
                     "Sala 5": {
                         "2020-07-27": {
@@ -4256,23 +4110,6 @@
                         }
                     }
                 },
-                "Forum Coimbra": {
-                    "Sala 5": {
-                        "2020-07-27": {
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=21:20&Sala=5"
-                        },
-                        "2020-07-28": {
-                            "16h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=16:20&Sala=5",
-                            "18h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:50&Sala=5",
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=21:20&Sala=5"
-                        },
-                        "2020-07-29": {
-                            "16h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=16:20&Sala=5",
-                            "18h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:50&Sala=5",
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=21:20&Sala=5"
-                        }
-                    }
-                },
                 "Forum Viseu": {
                     "Sala 2": {
                         "2020-07-27": {
@@ -4287,23 +4124,6 @@
                             "15h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VI&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=15:45&Sala=2",
                             "19h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VI&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=19:00&Sala=2",
                             "22h05": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VI&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=22:05&Sala=2"
-                        }
-                    }
-                },
-                "Gaia Shopping": {
-                    "Sala 9": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=20:50&Sala=9"
-                        },
-                        "2020-07-28": {
-                            "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=15:40&Sala=9",
-                            "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:20&Sala=9",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=20:50&Sala=9"
-                        },
-                        "2020-07-29": {
-                            "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=15:40&Sala=9",
-                            "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:20&Sala=9",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=20:50&Sala=9"
                         }
                     }
                 },
@@ -4344,11 +4164,93 @@
                         }
                     }
                 },
+                "Torres Vedras": {
+                    "Sala 3": {
+                        "2020-07-27": {
+                            "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=22:00&Sala=3"
+                        },
+                        "2020-07-28": {
+                            "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=22:00&Sala=3"
+                        },
+                        "2020-07-29": {
+                            "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=22:00&Sala=3"
+                        }
+                    }
+                },
+                "Alegro Montijo": {
+                    "Sala 5": {
+                        "2020-07-28": {
+                            "15h35": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=15:35&Sala=5",
+                            "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:10&Sala=5",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=20:50&Sala=5"
+                        },
+                        "2020-07-29": {
+                            "15h35": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=15:35&Sala=5",
+                            "18h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:10&Sala=5",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WD&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=20:50&Sala=5"
+                        }
+                    }
+                },
+                "Braga Parque": {
+                    "Sala 4": {
+                        "2020-07-28": {
+                            "13h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=13:20&Sala=4",
+                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=16:00&Sala=4",
+                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=21:15&Sala=4"
+                        },
+                        "2020-07-29": {
+                            "13h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=13:20&Sala=4",
+                            "16h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=16:00&Sala=4",
+                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=21:15&Sala=4"
+                        }
+                    }
+                },
+                "CascaiShopping": {
+                    "Sala 2": {
+                        "2020-07-28": {
+                            "14h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=14:15&Sala=2",
+                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=16:45&Sala=2",
+                            "19h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=19:00&Sala=2",
+                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=21:15&Sala=2"
+                        },
+                        "2020-07-29": {
+                            "14h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=14:15&Sala=2",
+                            "16h45": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=16:45&Sala=2",
+                            "19h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=19:00&Sala=2",
+                            "21h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W5&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=21:15&Sala=2"
+                        }
+                    }
+                },
+                "Forum Coimbra": {
+                    "Sala 5": {
+                        "2020-07-28": {
+                            "16h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=16:20&Sala=5",
+                            "18h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:50&Sala=5",
+                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=21:20&Sala=5"
+                        },
+                        "2020-07-29": {
+                            "16h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=16:20&Sala=5",
+                            "18h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:50&Sala=5",
+                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=FO&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=21:20&Sala=5"
+                        }
+                    }
+                },
+                "Gaia Shopping": {
+                    "Sala 9": {
+                        "2020-07-28": {
+                            "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=15:40&Sala=9",
+                            "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:20&Sala=9",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=20:50&Sala=9"
+                        },
+                        "2020-07-29": {
+                            "15h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=15:40&Sala=9",
+                            "18h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:20&Sala=9",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W2&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=20:50&Sala=9"
+                        }
+                    }
+                },
                 "Nosso Shopping": {
                     "Sala 4": {
-                        "2020-07-27": {
-                            "20h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=20:20&Sala=4"
-                        },
                         "2020-07-28": {
                             "15h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=15:00&Sala=4",
                             "17h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VR&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=17:50&Sala=4",
@@ -4363,9 +4265,6 @@
                 },
                 "Parque Nascente": {
                     "Sala 1": {
-                        "2020-07-27": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=20:30&Sala=1"
-                        },
                         "2020-07-28": {
                             "14h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=14:50&Sala=1",
                             "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=18:15&Sala=1",
@@ -4375,19 +4274,6 @@
                             "14h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=14:50&Sala=1",
                             "18h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=18:15&Sala=1",
                             "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=20:30&Sala=1"
-                        }
-                    }
-                },
-                "Torres Vedras": {
-                    "Sala 3": {
-                        "2020-07-27": {
-                            "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000427&DataSessao=2020-07-27&HoraSessao=22:00&Sala=3"
-                        },
-                        "2020-07-28": {
-                            "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000427&DataSessao=2020-07-28&HoraSessao=22:00&Sala=3"
-                        },
-                        "2020-07-29": {
-                            "22h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000427&DataSessao=2020-07-29&HoraSessao=22:00&Sala=3"
                         }
                     }
                 }
@@ -4819,23 +4705,6 @@
             "Duração (minutos)": "80",
             "Sinopse": "Num espaço rural, um velho homem recebe a noticia de que a sua falecida mulher foi vista a fazer compras na feira. Revoltado, pretende esconder-se de todos, despeitado e triste, mas os seus amigos insistem para que não dê ouvidos ao povo e aproveite tal facto para se fortalecer e, quem sabe, casar-se de novo. Esta é uma história da delicadeza de se ser velho, do que resta ainda para sonhar e para amar quando a idade avança significativamente e o corpo se enfraquece. Num Portugal antigo e recôndito, que afinal existe, apesar de tudo quanto façamos para nos modernizarmos. ",
             "Cinemas": {
-                "Amoreiras": {
-                    "VIP 1": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-27&HoraSessao=20:50&Sala=7"
-                        },
-                        "2020-07-28": {
-                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-28&HoraSessao=15:50&Sala=7",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-28&HoraSessao=18:30&Sala=7",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-28&HoraSessao=20:50&Sala=7"
-                        },
-                        "2020-07-29": {
-                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=15:50&Sala=7",
-                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=18:30&Sala=7",
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=20:50&Sala=7"
-                        }
-                    }
-                },
                 "Forum Viseu": {
                     "Sala 1": {
                         "2020-07-27": {
@@ -4846,6 +4715,20 @@
                         },
                         "2020-07-29": {
                             "22h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=VI&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=22:20&Sala=1"
+                        }
+                    }
+                },
+                "Amoreiras": {
+                    "VIP 1": {
+                        "2020-07-28": {
+                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-28&HoraSessao=15:50&Sala=7",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-28&HoraSessao=18:30&Sala=7",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-28&HoraSessao=20:50&Sala=7"
+                        },
+                        "2020-07-29": {
+                            "15h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=15:50&Sala=7",
+                            "18h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=18:30&Sala=7",
+                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=AM&CodFilme=1740720&DataSessao=2020-07-29&HoraSessao=20:50&Sala=7"
                         }
                     }
                 }
@@ -4878,19 +4761,6 @@
                         }
                     }
                 },
-                "Alma Shopping": {
-                    "Sala 4": {
-                        "2020-07-27": {
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000398&DataSessao=2020-07-27&HoraSessao=21:20&Sala=4"
-                        },
-                        "2020-07-28": {
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=21:20&Sala=4"
-                        },
-                        "2020-07-29": {
-                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000398&DataSessao=2020-07-29&HoraSessao=21:20&Sala=4"
-                        }
-                    }
-                },
                 "Alvaláxia": {
                     "Sala 1": {
                         "2020-07-27": {
@@ -4903,19 +4773,6 @@
                         "2020-07-29": {
                             "18h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1000398&DataSessao=2020-07-29&HoraSessao=18:40&Sala=1",
                             "21h40": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=LA&CodFilme=1000398&DataSessao=2020-07-29&HoraSessao=21:40&Sala=1"
-                        }
-                    }
-                },
-                "Évora Plaza": {
-                    "Sala 3": {
-                        "2020-07-27": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1000398&DataSessao=2020-07-27&HoraSessao=20:30&Sala=3"
-                        },
-                        "2020-07-28": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=20:30&Sala=3"
-                        },
-                        "2020-07-29": {
-                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1000398&DataSessao=2020-07-29&HoraSessao=20:30&Sala=3"
                         }
                     }
                 },
@@ -4949,11 +4806,28 @@
                         }
                     }
                 },
+                "Alma Shopping": {
+                    "Sala 4": {
+                        "2020-07-28": {
+                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=21:20&Sala=4"
+                        },
+                        "2020-07-29": {
+                            "21h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000398&DataSessao=2020-07-29&HoraSessao=21:20&Sala=4"
+                        }
+                    }
+                },
+                "Évora Plaza": {
+                    "Sala 3": {
+                        "2020-07-28": {
+                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=20:30&Sala=3"
+                        },
+                        "2020-07-29": {
+                            "20h30": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=EP&CodFilme=1000398&DataSessao=2020-07-29&HoraSessao=20:30&Sala=3"
+                        }
+                    }
+                },
                 "Oeiras Parque": {
                     "Sala 6": {
-                        "2020-07-27": {
-                            "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W8&CodFilme=1000398&DataSessao=2020-07-27&HoraSessao=21:00&Sala=6"
-                        },
                         "2020-07-28": {
                             "21h00": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=W8&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=21:00&Sala=6"
                         },
@@ -4964,9 +4838,6 @@
                 },
                 "Parque Nascente": {
                     "Sala 11": {
-                        "2020-07-27": {
-                            "20h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000398&DataSessao=2020-07-27&HoraSessao=20:15&Sala=11"
-                        },
                         "2020-07-28": {
                             "20h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=PN&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=20:15&Sala=11"
                         },
@@ -4977,9 +4848,6 @@
                 },
                 "Torres Vedras": {
                     "Sala 2": {
-                        "2020-07-27": {
-                            "20h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000398&DataSessao=2020-07-27&HoraSessao=20:50&Sala=2"
-                        },
                         "2020-07-28": {
                             "12h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=12:50&Sala=2",
                             "16h50": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=TV&CodFilme=1000398&DataSessao=2020-07-28&HoraSessao=16:50&Sala=2",
@@ -5025,21 +4893,6 @@
                         }
                     }
                 },
-                "Alma Shopping": {
-                    "Sala 3": {
-                        "2020-07-27": {
-                            "20h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-27&HoraSessao=20:20&Sala=3"
-                        },
-                        "2020-07-28": {
-                            "17h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-28&HoraSessao=17:10&Sala=3",
-                            "20h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-28&HoraSessao=20:20&Sala=3"
-                        },
-                        "2020-07-29": {
-                            "17h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-29&HoraSessao=17:10&Sala=3",
-                            "20h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-29&HoraSessao=20:20&Sala=3"
-                        }
-                    }
-                },
                 "Almada Forum": {
                     "Sala 9": {
                         "2020-07-27": {
@@ -5078,11 +4931,20 @@
                         }
                     }
                 },
+                "Alma Shopping": {
+                    "Sala 3": {
+                        "2020-07-28": {
+                            "17h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-28&HoraSessao=17:10&Sala=3",
+                            "20h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-28&HoraSessao=20:20&Sala=3"
+                        },
+                        "2020-07-29": {
+                            "17h10": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-29&HoraSessao=17:10&Sala=3",
+                            "20h20": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=CO&CodFilme=1000428&DataSessao=2020-07-29&HoraSessao=20:20&Sala=3"
+                        }
+                    }
+                },
                 "Braga Parque": {
                     "Sala 6": {
-                        "2020-07-27": {
-                            "20h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000428&DataSessao=2020-07-27&HoraSessao=20:15&Sala=6"
-                        },
                         "2020-07-28": {
                             "20h15": "https://bilheteira.cinemas.nos.pt/seats?CinemaId=WA&CodFilme=1000428&DataSessao=2020-07-28&HoraSessao=20:15&Sala=6"
                         },
