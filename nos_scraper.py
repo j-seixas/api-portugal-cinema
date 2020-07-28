@@ -16,7 +16,7 @@ dropdown_movies = soup.find('article', class_='button is-hidden')
 movies_a = dropdown_movies.find_all('a', class_='list-item')
 
 
-movies = [{'Nome': item.text, 'Link Filme': nos_url + item['href']} for item in movies_a]
+movies = [{'Nome': clean_spaces(item.text), 'Link Filme': nos_url + item['href']} for item in movies_a]
 
 # Get movie details
 for m in movies:
@@ -27,10 +27,17 @@ for m in movies:
     description = msoup.find('section', class_='description').find_all('p')
 
     for item in description:
+        # remove ':'
         name = item.b.text[:-1]
         
-        if name == 'Data de estreia:':
-            value = item.span.text
+        if name == 'Data de estreia':
+            value_tmp = item.span.text.split('/')
+            value = value_tmp[2] + '-' + value_tmp[1] + '-' + value_tmp[0]
+        elif name == 'Duração (minutos)':
+            # remove ' (minutos):'
+            name = name[:7]
+            item.b.extract()
+            value = item.text
         else:
             item.b.extract()
             value = item.text
