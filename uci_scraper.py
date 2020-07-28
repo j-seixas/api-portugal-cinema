@@ -5,15 +5,65 @@ import json
 def clean_spaces(value):
     return ' '.join(value.split())
 
-uci_url = 'https://ucicinemas.pt/Filmes/Cartaz'
-response = requests.get(uci_url)
+uci_url = 'https://ucicinemas.pt'
+response = requests.get(uci_url + '/Filmes/Cartaz')
 # Needs to return: <Response [200]>
 
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # Get all movies
-movies_li = soup.find_all('li', class_='listado-peliculas-item')
-print(movies_li)
+movies_posters = soup.find('article', id='cartelera')
+movies_h3 = movies_posters.find_all('h3')
+
+movies = [{'Nome': clean_spaces(item.a.text), 'Link Filme': uci_url + item.a['href']} for item in movies_h3]
+
+# Get movie details
+for m in movies:
+    # Get details + times in UCI Arrabida
+    mresponse = requests.get(m['Link Filme'] + '/arrabida-20')
+    msoup = BeautifulSoup(mresponse.content, 'html.parser')
+
+    details_p = msoup.find('article', class_='descripcion d2 cuadros_ficha').find('div', class_='datos').div.find_all('p')
+    
+    for i in range(len(details_p)):
+        if details_p[i].span.text == 'Data de estreia:':
+            details_name = details_p[i].span.text[:-1]
+            details_p[i].span.extract()
+            value_tmp = clean_spaces(details_p[i].text).split('-')
+            value = value_tmp[2] + '-' + value_tmp[1] + '-' + value_tmp[0]
+        
+        elif details_p[i].span.text == 'Duração:':
+            details_name = details_p[i].span.text[:-1]
+            details_p[i].span.extract()
+            value = clean_spaces(details_p[i].text)
+            # remove 'min'
+            value = clean_spaces(value[:-3])
+        else:
+            if details_p[i].span.text == 'Título original:':
+                details_name = 'Título Original'
+            elif details_p[i].span.text == 'Realização:':
+                details_name = 'Realizador'
+            elif details_p[i].span.text == 'Elenco:':
+                details_name = 'Actores'
+            elif details_p[i].span.text == 'Classificação':
+                details_name = details_p[i].span.text
+            else:
+                details_name = details_p[i].span.text[:-1]
+            
+            if details_name == 'Género' or details_name == 'País':
+                details_p[i].span.extract()
+                value = ', '.join(clean_spaces(details_p[i].text).split(' - '))
+            else:
+                details_p[i].span.extract()
+                value = clean_spaces(details_p[i].text)
+        
+        m[details_name] = value
+    
+    
+
+
+print(json.dumps(movies, indent=4, ensure_ascii=False))
+
 
 """
 dropdown_movies = soup.find('article', class_='button is-hidden')
