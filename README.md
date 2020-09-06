@@ -1,4 +1,4 @@
-# API Portugal Cinema
+# (WIP) API Portugal Cinema
 
 📽️ API for Portuguese Cinemas with the current movies in exhibition (even tho it's just a JSON file).
 
